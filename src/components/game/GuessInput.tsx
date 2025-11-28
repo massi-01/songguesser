@@ -35,7 +35,7 @@ export default function GuessInput({ track }: any) {
       normalize(t.name).includes(g)
     );
 
-    setSuggestions(filtered.slice(0, 6));
+    setSuggestions(filtered);
   }, [guess, tracks]);
 
   function doAttempt(songName: string) {

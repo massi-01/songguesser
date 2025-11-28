@@ -1,38 +1,65 @@
 "use client";
 
-export default function NeonModal({ success, title, subtitle, onRestart }: any) {
+let fullAudio: HTMLAudioElement | null = null;
+
+export default function NeonModal({
+  success,
+  title,
+  subtitle,
+  onRestart,
+  trackUrl,
+}: {
+  success: boolean;
+  title: string;
+  subtitle: string;
+  onRestart: () => void;
+  trackUrl: string;
+}) {
+  function playFullSong() {
+    // stop eventuale audio precedente
+    if (fullAudio) {
+      fullAudio.pause();
+      fullAudio.currentTime = 0;
+    }
+
+    fullAudio = new Audio(trackUrl);
+    fullAudio.play();
+  }
+
+  function handleRestart() {
+    // stop del full audio quando parte la nuova partita
+    if (fullAudio) {
+      fullAudio.pause();
+      fullAudio.currentTime = 0;
+      fullAudio = null;
+    }
+    onRestart();
+  }
+
   return (
-    <div
-      className="
-        fixed inset-0 flex items-center justify-center
-        bg-black/60 backdrop-blur-sm
-        z-50
-      "
-    >
-      <div
-        className={`
-          p-8 rounded-xl text-center animate-neon-pop
-          border-2 shadow-2xl
-          ${
-            success
-              ? "border-green-400 shadow-[0_0_15px_#0aff0a]"
-              : "border-red-500 shadow-[0_0_15px_#ff0044]"
-          }
-        `}
-      >
-        <h2 className="text-3xl font-bold text-white mb-4">{title}</h2>
-        <p className="text-gray-300 mb-6">{subtitle}</p>
+    <div className="fixed inset-0 bg-black/70 backdrop-blur-sm flex items-center justify-center z-50">
+      <div className="bg-gray-900 p-8 rounded-xl text-center border border-cyan-400 shadow-[0_0_15px_#00eaff]">
+
+        <h2 className="text-2xl font-bold text-cyan-400 drop-shadow-[0_0_8px_#00eaff]">
+          {title}
+        </h2>
+
+        <p className="mt-2 text-white opacity-80">{subtitle}</p>
 
         <button
-          onClick={onRestart}
-          className="
-            px-6 py-3 rounded-md bg-cyan-400
-            hover:bg-cyan-300 text-black font-bold
-            shadow-[0_0_10px_#00eaff]
-          "
+          onClick={playFullSong}
+          className="mt-6 px-5 py-2 w-full rounded bg-cyan-600 hover:bg-cyan-500 text-white font-semibold shadow-[0_0_10px_#00eaff] transition-all"
         >
-          🔄 Nuova partita
+          🔊 Ascolta tutta la canzone
         </button>
+
+        <button
+          onClick={handleRestart}
+          className="mt-3 px-5 py-2 w-full rounded bg-gray-700 hover:bg-gray-600 text-white font-semibold"
+        >
+          🔁 Nuova partita
+        </button>
+
       </div>
     </div>
   );

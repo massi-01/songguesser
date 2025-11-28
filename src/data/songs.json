@@ -1,5 +1,15 @@
 [
   {
+    "id": "-snow-informer",
+    "name": "(Snow) - Informer",
+    "url": "/songs/33. (Snow) - Informer.mp3"
+  },
+  {
+    "id": "112-peaches-cream-feat-diddy-",
+    "name": "112 - Peaches & Cream (feat. Diddy)",
+    "url": "/songs/54. 112 - Peaches & Cream (feat. Diddy).mp3"
+  },
+  {
     "id": "2-chainz-4-am-ft-travis-scott-",
     "name": "2 Chainz - 4 AM (Ft. Travis Scott)",
     "url": "/songs/93. 2 Chainz - 4 AM (Ft. Travis Scott).mp3"
@@ -15,9 +25,69 @@
     "url": "/songs/12. 21 Savage - Bank Account.mp3"
   },
   {
+    "id": "3oh-3-donttrustme",
+    "name": "3Oh!3 - DONTTRUSTME",
+    "url": "/songs/25. 3Oh!3 - DONTTRUSTME.mp3"
+  },
+  {
+    "id": "98-only-wanna-be-with-you",
+    "name": "98º - Only Wanna Be with You",
+    "url": "/songs/36. 98º - Only Wanna Be with You.mp3"
+  },
+  {
     "id": "a-boogie-wit-da-hoodie-drowning-feat-kodak-black",
     "name": "A Boogie Wit da Hoodie - Drowning (feat. Kodak Black",
     "url": "/songs/39. A Boogie Wit da Hoodie - Drowning (feat. Kodak Black.mp3"
+  },
+  {
+    "id": "a-rocket-to-the-moon-like-we-used-to",
+    "name": "A Rocket To The Moon - Like We Used To",
+    "url": "/songs/57. A Rocket To The Moon - Like We Used To.mp3"
+  },
+  {
+    "id": "a-ha-summer-moved-on",
+    "name": "A-Ha - Summer Moved On",
+    "url": "/songs/46. A-Ha - Summer Moved On.mp3"
+  },
+  {
+    "id": "a-ha-take-on-me",
+    "name": "A-Ha - Take On Me",
+    "url": "/songs/04. A-Ha - Take On Me.mp3"
+  },
+  {
+    "id": "adina-howard-freak-like-me-radio-edit-",
+    "name": "Adina Howard - Freak Like Me (Radio Edit)",
+    "url": "/songs/35. Adina Howard - Freak Like Me (Radio Edit).mp3"
+  },
+  {
+    "id": "adrian-gurvitz-classic-radio-edit-",
+    "name": "Adrian Gurvitz - Classic (Radio Edit)",
+    "url": "/songs/51. Adrian Gurvitz - Classic (Radio Edit).mp3"
+  },
+  {
+    "id": "air-supply-goodbye",
+    "name": "Air Supply - Goodbye",
+    "url": "/songs/48. Air Supply - Goodbye.mp3"
+  },
+  {
+    "id": "al-b-sure-nite-and-day",
+    "name": "AL B. SURE! - Nite and Day",
+    "url": "/songs/67. AL B. SURE! - Nite and Day.mp3"
+  },
+  {
+    "id": "al-jarreau-we-re-in-this-love-together",
+    "name": "Al Jarreau - We’re in This Love Together",
+    "url": "/songs/25. Al Jarreau - We’re in This Love Together.mp3"
+  },
+  {
+    "id": "alanis-morissette-hands-clean",
+    "name": "Alanis Morissette - Hands Clean",
+    "url": "/songs/33. Alanis Morissette - Hands Clean.mp3"
+  },
+  {
+    "id": "alanis-morissette-ironic-2015-remaster-",
+    "name": "Alanis Morissette - Ironic (2015 Remaster)",
+    "url": "/songs/01. Alanis Morissette - Ironic (2015 Remaster).mp3"
   },
   {
     "id": "alex-warren-ordinary",
@@ -25,9 +95,29 @@
     "url": "/songs/003. Alex Warren - Ordinary.mp3"
   },
   {
+    "id": "all-saints-never-ever-radio-edit-",
+    "name": "All Saints - Never Ever (Radio Edit)",
+    "url": "/songs/19. All Saints - Never Ever (Radio Edit).mp3"
+  },
+  {
+    "id": "all-saints-pure-shores",
+    "name": "All Saints - Pure Shores",
+    "url": "/songs/14. All Saints - Pure Shores.mp3"
+  },
+  {
     "id": "all-the-pretty-girls",
     "name": "All the Pretty Girls",
     "url": "/songs/92. All the Pretty Girls.mp3"
+  },
+  {
+    "id": "all-4-one-i-swear",
+    "name": "All-4-One - I Swear",
+    "url": "/songs/31. All-4-One - I Swear.mp3"
+  },
+  {
+    "id": "alphaville-forever-young",
+    "name": "Alphaville - Forever Young",
+    "url": "/songs/02. Alphaville - Forever Young.mp3"
   },
   {
     "id": "andy-williams-it-s-the-most-wonderful-time-of-the-year",
@@ -40,6 +130,56 @@
     "url": "/songs/019. Ariana Grande - Santa Tell Me.mp3"
   },
   {
+    "id": "art-of-noise-kiss-feat-tom-jones-",
+    "name": "Art Of Noise - Kiss (feat. Tom Jones)",
+    "url": "/songs/69. Art Of Noise - Kiss (feat. Tom Jones).mp3"
+  },
+  {
+    "id": "ashley-tisdale-he-said-she-said",
+    "name": "Ashley Tisdale - He Said She Said",
+    "url": "/songs/36. Ashley Tisdale - He Said She Said.mp3"
+  },
+  {
+    "id": "b-o-b-nothin-on-you-feat-bruno-mars-",
+    "name": "B.O.B - Nothin’ on You (feat. Bruno Mars)",
+    "url": "/songs/17. B.O.B - Nothin’ on You (feat. Bruno Mars).mp3"
+  },
+  {
+    "id": "babylon-zoo-spaceman-radio-edit-",
+    "name": "Babylon Zoo - Spaceman (Radio Edit)",
+    "url": "/songs/92. Babylon Zoo - Spaceman (Radio Edit).mp3"
+  },
+  {
+    "id": "barenaked-ladies-one-week",
+    "name": "Barenaked Ladies - One Week",
+    "url": "/songs/34. Barenaked Ladies - One Week.mp3"
+  },
+  {
+    "id": "barenaked-ladies-pinch-me",
+    "name": "Barenaked Ladies - Pinch Me",
+    "url": "/songs/53. Barenaked Ladies - Pinch Me.mp3"
+  },
+  {
+    "id": "bette-midler-wind-beneath-my-wings",
+    "name": "Bette Midler - Wind Beneath My Wings",
+    "url": "/songs/28. Bette Midler - Wind Beneath My Wings.mp3"
+  },
+  {
+    "id": "better-than-ezra-good",
+    "name": "Better Than Ezra - Good",
+    "url": "/songs/95. Better Than Ezra - Good.mp3"
+  },
+  {
+    "id": "biffy-clyro-many-of-horror",
+    "name": "Biffy Clyro - Many of Horror",
+    "url": "/songs/43. Biffy Clyro - Many of Horror.mp3"
+  },
+  {
+    "id": "big-mountain-baby-i-love-your-way",
+    "name": "Big Mountain - Baby, I Love Your Way",
+    "url": "/songs/10. Big Mountain - Baby, I Love Your Way.mp3"
+  },
+  {
     "id": "bigxthaplug-hell-at-night-feat-ella-langley-",
     "name": "BigXthaPlug - Hell At Night (feat. Ella Langley)",
     "url": "/songs/051. BigXthaPlug - Hell At Night (feat. Ella Langley).mp3"
@@ -50,14 +190,39 @@
     "url": "/songs/52. Billy Currington - Do I Make You Wanna.mp3"
   },
   {
+    "id": "billy-talent-rusted-from-the-rain",
+    "name": "Billy Talent - Rusted from the Rain",
+    "url": "/songs/95. Billy Talent - Rusted from the Rain.mp3"
+  },
+  {
     "id": "blackbear-do-re-mi",
     "name": "Blackbear - Do Re mi",
     "url": "/songs/67. Blackbear - Do Re mi.mp3"
   },
   {
+    "id": "blake-shelton-honey-bee",
+    "name": "Blake Shelton - Honey Bee",
+    "url": "/songs/39. Blake Shelton - Honey Bee.mp3"
+  },
+  {
+    "id": "blur-song-2-2012-remaster-",
+    "name": "Blur - Song 2 (2012 Remaster)",
+    "url": "/songs/20. Blur - Song 2 (2012 Remaster).mp3"
+  },
+  {
     "id": "bobby-helms-jingle-bell-rock",
     "name": "Bobby Helms - Jingle Bell Rock",
     "url": "/songs/014. Bobby Helms - Jingle Bell Rock.mp3"
+  },
+  {
+    "id": "brandy-full-moon",
+    "name": "Brandy - Full Moon",
+    "url": "/songs/38. Brandy - Full Moon.mp3"
+  },
+  {
+    "id": "brandy-the-boy-is-mine-radio-edit-",
+    "name": "Brandy - The Boy Is Mine (Radio Edit)",
+    "url": "/songs/12. Brandy - The Boy Is Mine (Radio Edit).mp3"
   },
   {
     "id": "brenda-lee-rockin-around-the-christmas-tree",
@@ -68,6 +233,11 @@
     "id": "brett-young-in-case-you-didn-t-know",
     "name": "Brett Young - In Case You Didn't Know",
     "url": "/songs/41. Brett Young - In Case You Didn't Know.mp3"
+  },
+  {
+    "id": "brother-beyond-the-harder-i-try",
+    "name": "Brother Beyond - The Harder I Try",
+    "url": "/songs/91. Brother Beyond - The Harder I Try.mp3"
   },
   {
     "id": "brothers-osborne-it-ain-t-my-fault",
@@ -90,6 +260,11 @@
     "url": "/songs/040. Burl Ives - A Holly Jolly Christmas.mp3"
   },
   {
+    "id": "c-c-catch-strangers-by-night",
+    "name": "C.C. Catch - Strangers by Night",
+    "url": "/songs/75. C.C. Catch - Strangers by Night.mp3"
+  },
+  {
     "id": "calvin-harris-feels-feat-pharrell-williams-katy-perry-big-sean-",
     "name": "Calvin Harris - Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
     "url": "/songs/21. Calvin Harris - Feels (feat. Pharrell Williams, Katy Perry & Big Sean).mp3"
@@ -98,6 +273,11 @@
     "id": "camila-cabello-omg-feat-quavo-",
     "name": "Camila Cabello - OMG (feat. Quavo)",
     "url": "/songs/81. Camila Cabello - OMG (feat. Quavo).mp3"
+  },
+  {
+    "id": "candlebox-far-behind",
+    "name": "Candlebox - Far Behind",
+    "url": "/songs/77. Candlebox - Far Behind.mp3"
   },
   {
     "id": "cardi-b-bodak-yellow",
@@ -115,9 +295,49 @@
     "url": "/songs/087. Cardi B - Safe (feat. Kehlani).mp3"
   },
   {
+    "id": "carl-thomas-i-wish",
+    "name": "Carl Thomas - I Wish",
+    "url": "/songs/48. Carl Thomas - I Wish.mp3"
+  },
+  {
+    "id": "carlene-carter-every-little-thing",
+    "name": "Carlene Carter - Every Little Thing",
+    "url": "/songs/73. Carlene Carter - Every Little Thing.mp3"
+  },
+  {
     "id": "carly-pearce-every-little-thing",
     "name": "Carly Pearce - Every Little Thing",
     "url": "/songs/98. Carly Pearce - Every Little Thing.mp3"
+  },
+  {
+    "id": "carolina-liar-show-me-what-i-m-looking-for",
+    "name": "Carolina Liar - Show Me What I’m Looking For",
+    "url": "/songs/47. Carolina Liar - Show Me What I’m Looking For.mp3"
+  },
+  {
+    "id": "cassie-me-u",
+    "name": "Cassie - Me & U",
+    "url": "/songs/32. Cassie - Me & U.mp3"
+  },
+  {
+    "id": "catatonia-road-rage-radio-edit-",
+    "name": "Catatonia - Road Rage (Radio Edit)",
+    "url": "/songs/80. Catatonia - Road Rage (Radio Edit).mp3"
+  },
+  {
+    "id": "chad-brock-yes-",
+    "name": "Chad Brock - Yes!",
+    "url": "/songs/68. Chad Brock - Yes!.mp3"
+  },
+  {
+    "id": "chaka-khan-i-feel-for-you",
+    "name": "Chaka Khan - I Feel for You",
+    "url": "/songs/09. Chaka Khan - I Feel for You.mp3"
+  },
+  {
+    "id": "changing-faces-stroke-you-up",
+    "name": "Changing Faces - Stroke You Up",
+    "url": "/songs/79. Changing Faces - Stroke You Up.mp3"
   },
   {
     "id": "charlie-puth-attention",
@@ -133,6 +353,26 @@
     "id": "cheat-codes-no-promises-feat-demi-lovato-",
     "name": "Cheat Codes - No Promises (feat. Demi Lovato)",
     "url": "/songs/42. Cheat Codes - No Promises (feat. Demi Lovato).mp3"
+  },
+  {
+    "id": "cher-believe",
+    "name": "Cher - Believe",
+    "url": "/songs/05. Cher - Believe.mp3"
+  },
+  {
+    "id": "cher-song-for-the-lonely",
+    "name": "Cher - Song for the Lonely",
+    "url": "/songs/99. Cher - Song for the Lonely.mp3"
+  },
+  {
+    "id": "chicago-hard-to-say-i-m-sorry",
+    "name": "Chicago - Hard to Say I’m Sorry",
+    "url": "/songs/12. Chicago - Hard to Say I’m Sorry.mp3"
+  },
+  {
+    "id": "chiddy-bang-opposite-of-adults",
+    "name": "Chiddy Bang - Opposite of Adults",
+    "url": "/songs/51. Chiddy Bang - Opposite of Adults.mp3"
   },
   {
     "id": "childish-gambino-redbone",
@@ -160,6 +400,36 @@
     "url": "/songs/97. Chris Lane - For Her.mp3"
   },
   {
+    "id": "chris-rea-looking-for-the-summer",
+    "name": "Chris Rea - Looking for the Summer",
+    "url": "/songs/37. Chris Rea - Looking for the Summer.mp3"
+  },
+  {
+    "id": "chris-rea-on-the-beach",
+    "name": "Chris Rea - On the Beach",
+    "url": "/songs/41. Chris Rea - On the Beach.mp3"
+  },
+  {
+    "id": "citizen-king-better-days-and-the-bottom-drops-out-",
+    "name": "Citizen King - Better Days (And the Bottom Drops Out)",
+    "url": "/songs/49. Citizen King - Better Days (And the Bottom Drops Out).mp3"
+  },
+  {
+    "id": "cliff-richard-ocean-deep-2002-remaster-",
+    "name": "Cliff Richard - Ocean Deep (2002 Remaster)",
+    "url": "/songs/49. Cliff Richard - Ocean Deep (2002 Remaster).mp3"
+  },
+  {
+    "id": "climie-fisher-love-changes-everything-",
+    "name": "Climie Fisher - Love Changes (Everything)",
+    "url": "/songs/31. Climie Fisher - Love Changes (Everything).mp3"
+  },
+  {
+    "id": "cobra-starship-good-girls-go-bad",
+    "name": "Cobra Starship - Good Girls Go Bad",
+    "url": "/songs/49. Cobra Starship - Good Girls Go Bad.mp3"
+  },
+  {
     "id": "cody-johnson-the-fall",
     "name": "Cody Johnson - The Fall",
     "url": "/songs/075. Cody Johnson - The Fall.mp3"
@@ -175,9 +445,44 @@
     "url": "/songs/088. Coldplay - Sparks.mp3"
   },
   {
+    "id": "coldplay-viva-la-vida",
+    "name": "Coldplay - Viva La Vida",
+    "url": "/songs/02. Coldplay - Viva La Vida.mp3"
+  },
+  {
     "id": "cole-swindell-flatliner-feat-dierks-bentley-",
     "name": "Cole Swindell - Flatliner (feat. Dierks Bentley)",
     "url": "/songs/56. Cole Swindell - Flatliner (feat. Dierks Bentley).mp3"
+  },
+  {
+    "id": "color-me-badd-i-wanna-sex-you-up",
+    "name": "Color Me Badd - I Wanna Sex You Up",
+    "url": "/songs/45. Color Me Badd - I Wanna Sex You Up.mp3"
+  },
+  {
+    "id": "d4l-laffy-taffy",
+    "name": "D4L - Laffy Taffy",
+    "url": "/songs/75. D4L - Laffy Taffy.mp3"
+  },
+  {
+    "id": "damn-yankees-high-enough",
+    "name": "Damn Yankees - High Enough",
+    "url": "/songs/46. Damn Yankees - High Enough.mp3"
+  },
+  {
+    "id": "daniel-powter-bad-day",
+    "name": "Daniel Powter - Bad Day",
+    "url": "/songs/06. Daniel Powter - Bad Day.mp3"
+  },
+  {
+    "id": "danity-kane-damaged",
+    "name": "Danity Kane - Damaged",
+    "url": "/songs/58. Danity Kane - Damaged.mp3"
+  },
+  {
+    "id": "dante-thomas-miss-california",
+    "name": "Dante Thomas - Miss California",
+    "url": "/songs/28. Dante Thomas - Miss California.mp3"
   },
   {
     "id": "darlene-love-christmas-baby-please-come-home-",
@@ -185,9 +490,24 @@
     "url": "/songs/048. Darlene Love - Christmas (Baby Please Come Home).mp3"
   },
   {
+    "id": "david-foster-the-best-of-me",
+    "name": "David Foster - The Best of Me",
+    "url": "/songs/82. David Foster - The Best of Me.mp3"
+  },
+  {
     "id": "david-guetta-2u-feat-justin-bieber-",
     "name": "David Guetta - 2U (feat. Justin Bieber)",
     "url": "/songs/45. David Guetta - 2U (feat. Justin Bieber).mp3"
+  },
+  {
+    "id": "david-guetta-sexy-bitch-feat-akon-",
+    "name": "David Guetta - Sexy Bitch (feat. Akon)",
+    "url": "/songs/07. David Guetta - Sexy Bitch (feat. Akon).mp3"
+  },
+  {
+    "id": "dawn-penn-you-don-t-love-me-no-no-no-",
+    "name": "Dawn Penn - You Don’t Love Me (No, No, No)",
+    "url": "/songs/71. Dawn Penn - You Don’t Love Me (No, No, No).mp3"
   },
   {
     "id": "dean-martin-let-it-snow-let-it-snow-let-it-snow-",
@@ -195,9 +515,49 @@
     "url": "/songs/034. Dean Martin - Let It Snow! Let It Snow! Let It Snow!.mp3"
   },
   {
+    "id": "death-cab-for-cutie-i-will-follow-you-into-the-dark",
+    "name": "Death Cab For Cutie - I Will Follow You into the Dark",
+    "url": "/songs/55. Death Cab For Cutie - I Will Follow You into the Dark.mp3"
+  },
+  {
+    "id": "debbie-gibson-lost-in-your-eyes",
+    "name": "Debbie Gibson - Lost in Your Eyes",
+    "url": "/songs/54. Debbie Gibson - Lost in Your Eyes.mp3"
+  },
+  {
+    "id": "debra-laws-very-special",
+    "name": "Debra Laws - Very Special",
+    "url": "/songs/97. Debra Laws - Very Special.mp3"
+  },
+  {
+    "id": "deee-lite-groove-is-in-the-heart",
+    "name": "Deee-Lite - Groove Is in the Heart",
+    "url": "/songs/22. Deee-Lite - Groove Is in the Heart.mp3"
+  },
+  {
+    "id": "del-tha-funky-homosapien-mistadobalina",
+    "name": "Del Tha Funky Homosapien - Mistadobalina",
+    "url": "/songs/72. Del Tha Funky Homosapien - Mistadobalina.mp3"
+  },
+  {
     "id": "demi-lovato-sorry-not-sorry",
     "name": "Demi Lovato - Sorry Not Sorry",
     "url": "/songs/28. Demi Lovato - Sorry Not Sorry.mp3"
+  },
+  {
+    "id": "dexys-geno",
+    "name": "Dexys - Geno",
+    "url": "/songs/71. Dexys - Geno.mp3"
+  },
+  {
+    "id": "diddy-i-ll-be-missing-you-feat-faith-evans-112-",
+    "name": "Diddy - I’ll Be Missing You (feat. Faith Evans & 112)",
+    "url": "/songs/07. Diddy - I’ll Be Missing You (feat. Faith Evans & 112).mp3"
+  },
+  {
+    "id": "diddy-last-night-feat-keyshia-cole-",
+    "name": "Diddy - Last Night (feat. Keyshia Cole)",
+    "url": "/songs/77. Diddy - Last Night (feat. Keyshia Cole).mp3"
   },
   {
     "id": "disco-lines-tinashe-no-broke-boys",
@@ -220,6 +580,21 @@
     "url": "/songs/067. Doja Cat - Jealous Type.mp3"
   },
   {
+    "id": "dolly-parton-wildflowers",
+    "name": "Dolly Parton - Wildflowers",
+    "url": "/songs/87. Dolly Parton - Wildflowers.mp3"
+  },
+  {
+    "id": "donald-fagen-i-g-y",
+    "name": "Donald Fagen - I.G.Y",
+    "url": "/songs/78. Donald Fagen - I.G.Y.mp3"
+  },
+  {
+    "id": "donna-lewis-i-love-you-always-forever",
+    "name": "Donna Lewis - I Love You Always Forever",
+    "url": "/songs/13. Donna Lewis - I Love You Always Forever.mp3"
+  },
+  {
     "id": "dove-cameron-it-s-goin-down",
     "name": "Dove Cameron - It's Goin' Down",
     "url": "/songs/96. Dove Cameron - It's Goin' Down.mp3"
@@ -235,14 +610,39 @@
     "url": "/songs/83. Dua Lipa - New Rules.mp3"
   },
   {
+    "id": "duncan-sheik-barely-breathing",
+    "name": "Duncan Sheik - Barely Breathing",
+    "url": "/songs/43. Duncan Sheik - Barely Breathing.mp3"
+  },
+  {
+    "id": "duran-duran-girls-on-film-2010-remaster-",
+    "name": "Duran Duran - Girls on Film (2010 Remaster)",
+    "url": "/songs/07. Duran Duran - Girls on Film (2010 Remaster).mp3"
+  },
+  {
+    "id": "duran-duran-ordinary-world",
+    "name": "Duran Duran - Ordinary World",
+    "url": "/songs/23. Duran Duran - Ordinary World.mp3"
+  },
+  {
     "id": "dustin-lynch-small-town-boy",
     "name": "Dustin Lynch - Small Town Boy",
     "url": "/songs/38. Dustin Lynch - Small Town Boy.mp3"
   },
   {
+    "id": "dusty-springfield-in-private",
+    "name": "Dusty Springfield - In Private",
+    "url": "/songs/56. Dusty Springfield - In Private.mp3"
+  },
+  {
     "id": "dylan-scott-my-girl",
     "name": "Dylan Scott - My Girl",
     "url": "/songs/66. Dylan Scott - My Girl.mp3"
+  },
+  {
+    "id": "echo-and-the-bunnymen-the-killing-moon",
+    "name": "Echo And The Bunnymen - The Killing Moon",
+    "url": "/songs/86. Echo And The Bunnymen - The Killing Moon.mp3"
   },
   {
     "id": "ed-sheeran-camera",
@@ -260,14 +660,119 @@
     "url": "/songs/09. Ed Sheeran - Shape Of You.mp3"
   },
   {
+    "id": "eddi-reader-patience-of-angels",
+    "name": "Eddi Reader - Patience of Angels",
+    "url": "/songs/38. Eddi Reader - Patience of Angels.mp3"
+  },
+  {
+    "id": "edwin-mccain-i-ll-be",
+    "name": "Edwin McCain - I’ll Be",
+    "url": "/songs/56. Edwin McCain - I’ll Be.mp3"
+  },
+  {
+    "id": "eg-and-alice-indian",
+    "name": "Eg And Alice - Indian",
+    "url": "/songs/99. Eg And Alice - Indian.mp3"
+  },
+  {
+    "id": "elaine-paige-memory",
+    "name": "Elaine Paige - Memory",
+    "url": "/songs/96. Elaine Paige - Memory.mp3"
+  },
+  {
+    "id": "electronic-getting-away-with-it",
+    "name": "Electronic - Getting Away with It",
+    "url": "/songs/53. Electronic - Getting Away with It.mp3"
+  },
+  {
     "id": "ella-langley-choosin-texas",
     "name": "Ella Langley - Choosin' Texas",
     "url": "/songs/016. Ella Langley - Choosin' Texas.mp3"
   },
   {
+    "id": "elvis-costello-veronica",
+    "name": "Elvis Costello - Veronica",
+    "url": "/songs/90. Elvis Costello - Veronica.mp3"
+  },
+  {
+    "id": "en-vogue-don-t-let-go-love-",
+    "name": "En Vogue - Don't Let Go (Love)",
+    "url": "/songs/24. En Vogue - Don't Let Go (Love).mp3"
+  },
+  {
+    "id": "eric-ben-t-georgy-porgy-feat-faith-evans-",
+    "name": "Eric Benét - Georgy Porgy (feat. Faith Evans)",
+    "url": "/songs/60. Eric Benét - Georgy Porgy (feat. Faith Evans).mp3"
+  },
+  {
+    "id": "eric-hutchinson-rock-roll",
+    "name": "Eric Hutchinson - Rock & Roll",
+    "url": "/songs/87. Eric Hutchinson - Rock & Roll.mp3"
+  },
+  {
+    "id": "eternal-i-wanna-be-the-only-one-feat-bebe-winans-",
+    "name": "Eternal - I Wanna Be the Only One (feat. BeBe Winans)",
+    "url": "/songs/42. Eternal - I Wanna Be the Only One (feat. BeBe Winans).mp3"
+  },
+  {
+    "id": "fabolous-into-you",
+    "name": "Fabolous - Into You",
+    "url": "/songs/81. Fabolous - Into You.mp3"
+  },
+  {
+    "id": "faith-evans-i-love-you",
+    "name": "Faith Evans - I Love You",
+    "url": "/songs/64. Faith Evans - I Love You.mp3"
+  },
+  {
+    "id": "faith-evans-love-like-this",
+    "name": "Faith Evans - Love like This",
+    "url": "/songs/74. Faith Evans - Love like This.mp3"
+  },
+  {
+    "id": "faith-hill-there-you-ll-be-2007-remaster-",
+    "name": "Faith Hill - There You’ll Be (2007 Remaster)",
+    "url": "/songs/22. Faith Hill - There You’ll Be (2007 Remaster).mp3"
+  },
+  {
+    "id": "faith-hill-this-kiss",
+    "name": "Faith Hill - This Kiss",
+    "url": "/songs/30. Faith Hill - This Kiss.mp3"
+  },
+  {
+    "id": "faith-no-more-easy",
+    "name": "Faith No More - Easy",
+    "url": "/songs/41. Faith No More - Easy.mp3"
+  },
+  {
+    "id": "faith-no-more-epic-radio-edit-",
+    "name": "Faith No More - Epic (Radio Edit)",
+    "url": "/songs/66. Faith No More - Epic (Radio Edit).mp3"
+  },
+  {
     "id": "fifth-harmony-down-feat-gucci-mane-",
     "name": "Fifth Harmony - Down (feat. Gucci Mane)",
     "url": "/songs/90. Fifth Harmony - Down (feat. Gucci Mane).mp3"
+  },
+  {
+    "id": "fleetwood-mac-everywhere-2018-remaster-",
+    "name": "Fleetwood Mac - Everywhere (2018 Remaster)",
+    "url": "/songs/10. Fleetwood Mac - Everywhere (2018 Remaster).mp3"
+  },
+  {
+    "id": "fleetwood-mac-skies-the-limit-2002-remaster-",
+    "name": "Fleetwood Mac - Skies the Limit (2002 Remaster)",
+    "url": "/songs/78. Fleetwood Mac - Skies the Limit (2002 Remaster).mp3"
+  },
+  {
+    "id": "flo-rida-low-feat-t-pain-",
+    "name": "Flo Rida - Low (feat. T-Pain)",
+    "url": "/songs/23. Flo Rida - Low (feat. T-Pain).mp3"
+  },
+  {
+    "id": "foreigner-i-want-to-know-what-love-is-1999-remaster-",
+    "name": "Foreigner - I Want to Know What Love Is (1999 Remaster)",
+    "url": "/songs/17. Foreigner - I Want to Know What Love Is (1999 Remaster).mp3"
   },
   {
     "id": "french-montana-unforgettable-feat-swae-lee-",
@@ -295,14 +800,59 @@
     "url": "/songs/071. Gavin Adcock - Last One To Know.mp3"
   },
   {
+    "id": "george-benson-give-me-the-night",
+    "name": "George Benson - Give Me the Night",
+    "url": "/songs/16. George Benson - Give Me the Night.mp3"
+  },
+  {
+    "id": "geri-halliwell-it-s-raining-men",
+    "name": "Geri Halliwell - It’s Raining Men",
+    "url": "/songs/63. Geri Halliwell - It’s Raining Men.mp3"
+  },
+  {
+    "id": "gina-g-ooh-aah-just-a-little-bit-motiv8-radio-edit-",
+    "name": "Gina G - Ooh Aah...Just a Little Bit (Motiv8 Radio Edit)",
+    "url": "/songs/64. Gina G - Ooh Aah...Just a Little Bit (Motiv8 Radio Edit).mp3"
+  },
+  {
     "id": "goldlink-crew-feat-brent-faiyaz-shy-gl",
     "name": "GoldLink - Crew (feat. Brent Faiyaz & Shy Gl",
     "url": "/songs/58. GoldLink - Crew (feat. Brent Faiyaz & Shy Gl.mp3"
   },
   {
+    "id": "gorillaz-feel-good-inc",
+    "name": "Gorillaz - Feel Good Inc",
+    "url": "/songs/20. Gorillaz - Feel Good Inc.mp3"
+  },
+  {
+    "id": "grace-not-over-yet",
+    "name": "Grace - Not Over Yet",
+    "url": "/songs/81. Grace - Not Over Yet.mp3"
+  },
+  {
+    "id": "green-day-american-idiot",
+    "name": "Green Day - American Idiot",
+    "url": "/songs/08. Green Day - American Idiot.mp3"
+  },
+  {
+    "id": "green-day-good-riddance-time-of-your-life-",
+    "name": "Green Day - Good Riddance (Time of Your Life)",
+    "url": "/songs/25. Green Day - Good Riddance (Time of Your Life).mp3"
+  },
+  {
+    "id": "gucci-mane-lemonade",
+    "name": "Gucci Mane - Lemonade",
+    "url": "/songs/34. Gucci Mane - Lemonade.mp3"
+  },
+  {
     "id": "gunna-wgft-feat-burna-boy-",
     "name": "Gunna - wgft (feat. Burna Boy)",
     "url": "/songs/045. Gunna - wgft (feat. Burna Boy).mp3"
+  },
+  {
+    "id": "gym-class-heroes-cupid-s-chokehold-breakfast-in-america",
+    "name": "Gym Class Heroes - Cupid’s Chokehold  Breakfast in America",
+    "url": "/songs/04. Gym Class Heroes - Cupid’s Chokehold  Breakfast in America.mp3"
   },
   {
     "id": "hailee-steinfeld-most-girl",
@@ -313,6 +863,11 @@
     "id": "halsey-now-or-never",
     "name": "Halsey - Now Or Never",
     "url": "/songs/26. Halsey - Now Or Never.mp3"
+  },
+  {
+    "id": "hard-fi-hard-to-beat-radio-edit-",
+    "name": "Hard-Fi - Hard to Beat (Radio Edit)",
+    "url": "/songs/59. Hard-Fi - Hard to Beat (Radio Edit).mp3"
   },
   {
     "id": "hardy-favorite-country-song",
@@ -328,6 +883,16 @@
     "id": "hazbin-hotel-losin-streak",
     "name": "Hazbin Hotel - Losin' Streak",
     "url": "/songs/098. Hazbin Hotel - Losin' Streak.mp3"
+  },
+  {
+    "id": "hot-action-cop-fever-for-the-flava-radio-edit-",
+    "name": "Hot Action Cop - Fever for the Flava (Radio Edit)",
+    "url": "/songs/74. Hot Action Cop - Fever for the Flava (Radio Edit).mp3"
+  },
+  {
+    "id": "hot-chocolate-it-started-with-a-kiss",
+    "name": "Hot Chocolate - It Started with a Kiss",
+    "url": "/songs/42. Hot Chocolate - It Started with a Kiss.mp3"
   },
   {
     "id": "hudson-westbrook-house-again",
@@ -360,9 +925,24 @@
     "url": "/songs/53. Imagine Dragons - Thunder.mp3"
   },
   {
+    "id": "ironik-tiny-dancer-hold-me-closer-",
+    "name": "Ironik - Tiny Dancer (Hold Me Closer)",
+    "url": "/songs/96. Ironik - Tiny Dancer (Hold Me Closer).mp3"
+  },
+  {
+    "id": "iyaz-replay-feat-flo-rida-",
+    "name": "Iyaz - Replay (feat. Flo Rida)",
+    "url": "/songs/19. Iyaz - Replay (feat. Flo Rida).mp3"
+  },
+  {
     "id": "j-balvin-willy-william-mi-gente",
     "name": "J Balvin & Willy William - Mi Gente",
     "url": "/songs/23. J Balvin & Willy William - Mi Gente.mp3"
+  },
+  {
+    "id": "jack-s-mannequin-dark-blue-2015-remaster-",
+    "name": "Jack's Mannequin - Dark Blue (2015 Remaster)",
+    "url": "/songs/76. Jack's Mannequin - Dark Blue (2015 Remaster).mp3"
   },
   {
     "id": "jacquees-b-e-d-",
@@ -370,9 +950,54 @@
     "url": "/songs/94. Jacquees - B.E.D..mp3"
   },
   {
+    "id": "jade-don-t-walk-away",
+    "name": "Jade - Don't Walk Away",
+    "url": "/songs/91. Jade - Don't Walk Away.mp3"
+  },
+  {
+    "id": "jaheim-put-that-woman-first",
+    "name": "Jaheim - Put That Woman First",
+    "url": "/songs/44. Jaheim - Put That Woman First.mp3"
+  },
+  {
+    "id": "jaki-graham-set-me-free",
+    "name": "Jaki Graham - Set Me Free",
+    "url": "/songs/99. Jaki Graham - Set Me Free.mp3"
+  },
+  {
     "id": "james-arthur-say-you-won-t-let-go",
     "name": "James Arthur - Say You Won't Let Go",
     "url": "/songs/27. James Arthur - Say You Won't Let Go.mp3"
+  },
+  {
+    "id": "james-blunt-you-re-beautiful",
+    "name": "James Blunt - You’re Beautiful",
+    "url": "/songs/01. James Blunt - You’re Beautiful.mp3"
+  },
+  {
+    "id": "james-ingram-there-s-no-easy-way",
+    "name": "James Ingram - There’s No Easy Way",
+    "url": "/songs/35. James Ingram - There’s No Easy Way.mp3"
+  },
+  {
+    "id": "jamie-walters-hold-on",
+    "name": "Jamie Walters - Hold On",
+    "url": "/songs/66. Jamie Walters - Hold On.mp3"
+  },
+  {
+    "id": "jane-child-don-t-wanna-fall-in-love",
+    "name": "Jane Child - Don’t Wanna Fall in Love",
+    "url": "/songs/36. Jane Child - Don’t Wanna Fall in Love.mp3"
+  },
+  {
+    "id": "jane-s-addiction-been-caught-stealing",
+    "name": "Jane’s Addiction - Been Caught Stealing",
+    "url": "/songs/87. Jane’s Addiction - Been Caught Stealing.mp3"
+  },
+  {
+    "id": "jane-s-addiction-jane-says",
+    "name": "Jane’s Addiction - Jane Says",
+    "url": "/songs/47. Jane’s Addiction - Jane Says.mp3"
   },
   {
     "id": "jason-aldean-how-far-does-a-goodbye-go",
@@ -385,6 +1010,36 @@
     "url": "/songs/89. Jason Aldean - They Don't Know.mp3"
   },
   {
+    "id": "jason-mraz-lucky",
+    "name": "Jason Mraz - Lucky",
+    "url": "/songs/18. Jason Mraz - Lucky.mp3"
+  },
+  {
+    "id": "jennifer-love-hewitt-no-ordinary-love",
+    "name": "Jennifer Love Hewitt - No Ordinary Love",
+    "url": "/songs/84. Jennifer Love Hewitt - No Ordinary Love.mp3"
+  },
+  {
+    "id": "jimmy-nail-ain-t-no-doubt",
+    "name": "Jimmy Nail - Ain’t No Doubt",
+    "url": "/songs/94. Jimmy Nail - Ain’t No Doubt.mp3"
+  },
+  {
+    "id": "joey-scarbury-believe-it-or-not-from-greatest-american-hero-",
+    "name": "Joey Scarbury - Believe It or Not (From Greatest American Hero)",
+    "url": "/songs/29. Joey Scarbury - Believe It or Not (From Greatest American Hero).mp3"
+  },
+  {
+    "id": "john-michael-montgomery-letters-from-home",
+    "name": "John Michael Montgomery - Letters from Home",
+    "url": "/songs/56. John Michael Montgomery - Letters from Home.mp3"
+  },
+  {
+    "id": "john-parr-st-elmo-s-fire-man-in-motion-",
+    "name": "John Parr - St. Elmo's Fire (Man in Motion)",
+    "url": "/songs/18. John Parr - St. Elmo's Fire (Man in Motion).mp3"
+  },
+  {
     "id": "jon-pardi-heartache-on-the-dance-floor",
     "name": "Jon Pardi - Heartache on the Dance Floor",
     "url": "/songs/54. Jon Pardi - Heartache on the Dance Floor.mp3"
@@ -395,9 +1050,24 @@
     "url": "/songs/049. José Feliciano - Feliz Navidad.mp3"
   },
   {
+    "id": "joy-division-love-will-tear-us-apart",
+    "name": "Joy Division - Love Will Tear Us Apart",
+    "url": "/songs/52. Joy Division - Love Will Tear Us Apart.mp3"
+  },
+  {
+    "id": "julee-cruise-falling",
+    "name": "Julee Cruise - Falling",
+    "url": "/songs/62. Julee Cruise - Falling.mp3"
+  },
+  {
     "id": "julia-michaels-issues",
     "name": "Julia Michaels - Issues",
     "url": "/songs/44. Julia Michaels - Issues.mp3"
+  },
+  {
+    "id": "junior-m-a-f-i-a-get-money",
+    "name": "Junior M.A.F.I.A. - Get Money",
+    "url": "/songs/82. Junior M.A.F.I.A. - Get Money.mp3"
   },
   {
     "id": "justin-bieber-daisies",
@@ -415,9 +1085,24 @@
     "url": "/songs/64. Justin Moore - Somebody Else Will.mp3"
   },
   {
+    "id": "kajagoogoo-too-shy-2004-remaster-",
+    "name": "Kajagoogoo - Too Shy (2004 Remaster)",
+    "url": "/songs/55. Kajagoogoo - Too Shy (2004 Remaster).mp3"
+  },
+  {
     "id": "kane-brown-what-ifs",
     "name": "Kane Brown - What Ifs",
     "url": "/songs/40. Kane Brown - What Ifs.mp3"
+  },
+  {
+    "id": "karyn-white-superwoman",
+    "name": "Karyn White - Superwoman",
+    "url": "/songs/62. Karyn White - Superwoman.mp3"
+  },
+  {
+    "id": "katrina-and-the-waves-love-shine-a-light",
+    "name": "Katrina And The Waves - Love Shine a Light",
+    "url": "/songs/90. Katrina And The Waves - Love Shine a Light.mp3"
   },
   {
     "id": "katseye-gabriela",
@@ -428,6 +1113,11 @@
     "id": "kehlani-folded",
     "name": "Kehlani - Folded",
     "url": "/songs/009. Kehlani - Folded.mp3"
+  },
+  {
+    "id": "keith-sweat-twisted",
+    "name": "Keith Sweat - Twisted",
+    "url": "/songs/67. Keith Sweat - Twisted.mp3"
   },
   {
     "id": "kelly-clarkson-underneath-the-tree",
@@ -460,6 +1150,16 @@
     "url": "/songs/24. Kesha - Praying.mp3"
   },
   {
+    "id": "kevin-lyttle-turn-me-on",
+    "name": "Kevin Lyttle - Turn Me On",
+    "url": "/songs/42. Kevin Lyttle - Turn Me On.mp3"
+  },
+  {
+    "id": "kevin-michael-we-all-want-the-same-thing-feat-lupe-fiasco-",
+    "name": "Kevin Michael - We All Want The Same Thing (Feat. Lupe Fiasco)",
+    "url": "/songs/65. Kevin Michael - We All Want The Same Thing (Feat. Lupe Fiasco).mp3"
+  },
+  {
     "id": "khalid-location",
     "name": "Khalid - location",
     "url": "/songs/29. Khalid - location.mp3"
@@ -470,6 +1170,11 @@
     "url": "/songs/49. Khalid - Young Dumb & Broke.mp3"
   },
   {
+    "id": "kid-rock-all-summer-long",
+    "name": "Kid Rock - All Summer Long",
+    "url": "/songs/21. Kid Rock - All Summer Long.mp3"
+  },
+  {
     "id": "kodak-black-patty-cake",
     "name": "Kodak Black - Patty Cake",
     "url": "/songs/76. Kodak Black - Patty Cake.mp3"
@@ -478,6 +1183,11 @@
     "id": "kygo-selena-gomez-it-ain-t-me",
     "name": "Kygo & Selena Gomez -  It Ain't Me",
     "url": "/songs/31. Kygo & Selena Gomez -  It Ain't Me.mp3"
+  },
+  {
+    "id": "kym-sims-too-blind-to-see-it",
+    "name": "Kym Sims - Too Blind to See It",
+    "url": "/songs/98. Kym Sims - Too Blind to See It.mp3"
   },
   {
     "id": "lady-antebellum-you-look-good",
@@ -495,9 +1205,39 @@
     "url": "/songs/039. Lainey Wilson - Somewhere Over Laredo.mp3"
   },
   {
+    "id": "larry-graham-one-in-a-million-you",
+    "name": "Larry Graham - One in a Million You",
+    "url": "/songs/85. Larry Graham - One in a Million You.mp3"
+  },
+  {
+    "id": "laura-branigan-self-control",
+    "name": "Laura Branigan - Self Control",
+    "url": "/songs/33. Laura Branigan - Self Control.mp3"
+  },
+  {
+    "id": "lcd-soundsystem-daft-punk-is-playing-at-my-house-radio-edit-",
+    "name": "LCD Soundsystem - Daft Punk Is Playing at My House (Radio Edit)",
+    "url": "/songs/98. LCD Soundsystem - Daft Punk Is Playing at My House (Radio Edit).mp3"
+  },
+  {
+    "id": "lene-marlin-sitting-down-here",
+    "name": "Lene Marlin - Sitting Down Here",
+    "url": "/songs/59. Lene Marlin - Sitting Down Here.mp3"
+  },
+  {
     "id": "leon-thomas-mutt",
     "name": "Leon Thomas - MUTT",
     "url": "/songs/006. Leon Thomas - MUTT.mp3"
+  },
+  {
+    "id": "less-than-jake-the-science-of-selling-yourself-short",
+    "name": "Less Than Jake - The Science of Selling Yourself Short",
+    "url": "/songs/78. Less Than Jake - The Science of Selling Yourself Short.mp3"
+  },
+  {
+    "id": "levert-casanova",
+    "name": "Levert - Casanova",
+    "url": "/songs/72. Levert - Casanova.mp3"
   },
   {
     "id": "liam-payne-strip-that-down-feat-quavo-",
@@ -510,14 +1250,59 @@
     "url": "/songs/18. Lil Uzi Vert - XO TOUR Llif3.mp3"
   },
   {
+    "id": "lil-kim-crush-on-you",
+    "name": "Lil' Kim - Crush on You",
+    "url": "/songs/40. Lil' Kim - Crush on You.mp3"
+  },
+  {
+    "id": "lil-kim-magic-stick",
+    "name": "Lil' Kim - Magic Stick",
+    "url": "/songs/61. Lil' Kim - Magic Stick.mp3"
+  },
+  {
+    "id": "lily-allen-smile",
+    "name": "Lily Allen - Smile",
+    "url": "/songs/50. Lily Allen - Smile.mp3"
+  },
+  {
+    "id": "limahl-never-ending-story-giorgio-7-mix-",
+    "name": "Limahl - Never Ending Story (Giorgio 7 Mix)",
+    "url": "/songs/26. Limahl - Never Ending Story (Giorgio 7 Mix).mp3"
+  },
+  {
+    "id": "lindsey-buckingham-holiday-road-2024-remaster-",
+    "name": "Lindsey Buckingham - Holiday Road (2024 Remaster)",
+    "url": "/songs/50. Lindsey Buckingham - Holiday Road (2024 Remaster).mp3"
+  },
+  {
+    "id": "linkin-park-in-the-end",
+    "name": "Linkin Park - In the End",
+    "url": "/songs/05. Linkin Park - In the End.mp3"
+  },
+  {
     "id": "logic-1-800-273-8255",
     "name": "Logic - 1-800-273-8255",
     "url": "/songs/50. Logic - 1-800-273-8255.mp3"
   },
   {
+    "id": "london-boys-i-m-gonna-give-my-heart",
+    "name": "London Boys - I'm Gonna Give My Heart",
+    "url": "/songs/95. London Boys - I'm Gonna Give My Heart.mp3"
+  },
+  {
+    "id": "los-lobos-la-bamba",
+    "name": "Los Lobos - La Bamba",
+    "url": "/songs/40. Los Lobos - La Bamba.mp3"
+  },
+  {
     "id": "louis-tomlinson-back-to-you-feat-bebe-rexha-digital-farm-animals-",
     "name": "Louis Tomlinson - Back to You (feat. Bebe Rexha & Digital Farm Animals)",
     "url": "/songs/62. Louis Tomlinson - Back to You (feat. Bebe Rexha & Digital Farm Animals).mp3"
+  },
+  {
+    "id": "lsg-my-body",
+    "name": "LSG - My Body",
+    "url": "/songs/57. LSG - My Body.mp3"
   },
   {
     "id": "luis-fonsi-daddy-yankee-despacito-ft-justin-bieber",
@@ -540,14 +1325,49 @@
     "url": "/songs/80. Luke Combs - When It Rains It Pours.mp3"
   },
   {
+    "id": "lupe-fiasco-superstar-feat-matthew-santos-",
+    "name": "Lupe Fiasco - Superstar (feat. Matthew Santos)",
+    "url": "/songs/41. Lupe Fiasco - Superstar (feat. Matthew Santos).mp3"
+  },
+  {
+    "id": "m2m-pretty-boy",
+    "name": "M2M - Pretty Boy",
+    "url": "/songs/66. M2M - Pretty Boy.mp3"
+  },
+  {
     "id": "macklemore-glorious-feat-skylar-grey-",
     "name": "Macklemore - Glorious (feat. Skylar Grey)",
     "url": "/songs/71. Macklemore - Glorious (feat. Skylar Grey).mp3"
   },
   {
+    "id": "madonna-4-minutes-feat-justin-timberlake-timbaland-",
+    "name": "Madonna - 4 Minutes (feat. Justin Timberlake & Timbaland)",
+    "url": "/songs/10. Madonna - 4 Minutes (feat. Justin Timberlake & Timbaland).mp3"
+  },
+  {
+    "id": "madonna-la-isla-bonita",
+    "name": "Madonna - La Isla Bonita",
+    "url": "/songs/01. Madonna - La Isla Bonita.mp3"
+  },
+  {
+    "id": "madonna-vogue",
+    "name": "Madonna - Vogue",
+    "url": "/songs/03. Madonna - Vogue.mp3"
+  },
+  {
     "id": "maluma-felices-los-4",
     "name": "Maluma - Felices los 4",
     "url": "/songs/61. Maluma - Felices los 4.mp3"
+  },
+  {
+    "id": "marc-almond-something-s-gotten-hold-of-my-heart",
+    "name": "Marc Almond - Something's Gotten Hold of My Heart",
+    "url": "/songs/84. Marc Almond - Something's Gotten Hold of My Heart.mp3"
+  },
+  {
+    "id": "marc-cohn-walking-in-memphis",
+    "name": "Marc Cohn - Walking in Memphis",
+    "url": "/songs/17. Marc Cohn - Walking in Memphis.mp3"
   },
   {
     "id": "mariah-carey-all-i-want-for-christmas-is-you",
@@ -560,9 +1380,49 @@
     "url": "/songs/054. Mariah the Scientist & Kali Uchis - Is It a Crime.mp3"
   },
   {
+    "id": "marillion-kayleigh-2017-remaster-",
+    "name": "Marillion - Kayleigh (2017 Remaster)",
+    "url": "/songs/73. Marillion - Kayleigh (2017 Remaster).mp3"
+  },
+  {
+    "id": "mario-winans-i-don-t-wanna-know-feat-enya-diddy-",
+    "name": "Mario Winans - I Don't Wanna Know (feat. Enya & Diddy)",
+    "url": "/songs/72. Mario Winans - I Don't Wanna Know (feat. Enya & Diddy).mp3"
+  },
+  {
+    "id": "mark-morrison-return-of-the-mack-c-j-street-mix-",
+    "name": "Mark Morrison - Return of the Mack (C & J Street Mix)",
+    "url": "/songs/09. Mark Morrison - Return of the Mack (C & J Street Mix).mp3"
+  },
+  {
+    "id": "mase-feel-so-good",
+    "name": "Mase - Feel So Good",
+    "url": "/songs/93. Mase - Feel So Good.mp3"
+  },
+  {
+    "id": "matchbox-twenty-push",
+    "name": "Matchbox Twenty - Push",
+    "url": "/songs/08. Matchbox Twenty - Push.mp3"
+  },
+  {
+    "id": "matchbox-twenty-unwell",
+    "name": "Matchbox Twenty - Unwell",
+    "url": "/songs/11. Matchbox Twenty - Unwell.mp3"
+  },
+  {
+    "id": "matt-bianco-more-than-i-can-bear",
+    "name": "Matt Bianco - More than I Can Bear",
+    "url": "/songs/98. Matt Bianco - More than I Can Bear.mp3"
+  },
+  {
     "id": "max-mcnown-better-me-for-you-brown-eyes-",
     "name": "Max McNown - Better Me For You (Brown Eyes)",
     "url": "/songs/063. Max McNown - Better Me For You (Brown Eyes).mp3"
+  },
+  {
+    "id": "mc-lyte-cold-rock-a-party",
+    "name": "MC Lyte - Cold Rock a Party",
+    "url": "/songs/54. MC Lyte - Cold Rock a Party.mp3"
   },
   {
     "id": "meek-mill-whatever-you-need-feat-chris-brown-ty-dolla-ign-",
@@ -575,14 +1435,129 @@
     "url": "/songs/038. Megan Moroney - 6 Months Later.mp3"
   },
   {
+    "id": "m-l-e-built-to-last",
+    "name": "Mêlée - Built to Last",
+    "url": "/songs/71. Mêlée - Built to Last.mp3"
+  },
+  {
     "id": "metro-boomin-quavo-breskii-ykniece-dj-spinz-take-me-thru-dere",
     "name": "Metro Boomin, Quavo, Breskii, YKNIECE & DJ SPINZ - Take Me Thru Dere",
     "url": "/songs/074. Metro Boomin, Quavo, Breskii, YKNIECE & DJ SPINZ - Take Me Thru Dere.mp3"
   },
   {
+    "id": "michael-bubl-feeling-good",
+    "name": "Michael Bublé - Feeling Good",
+    "url": "/songs/26. Michael Bublé - Feeling Good.mp3"
+  },
+  {
     "id": "michael-bubl-it-s-beginning-to-look-a-lot-like-christmas",
     "name": "Michael Bublé - It's Beginning to Look a Lot like Christmas",
     "url": "/songs/032. Michael Bublé - It's Beginning to Look a Lot like Christmas.mp3"
+  },
+  {
+    "id": "michael-jackson-baby-be-mine",
+    "name": "Michael Jackson -  Baby Be Mine",
+    "url": "/songs/02. Michael Jackson -  Baby Be Mine.mp3"
+  },
+  {
+    "id": "michael-jackson-billie-jean",
+    "name": "Michael Jackson -  Billie Jean",
+    "url": "/songs/06. Michael Jackson -  Billie Jean.mp3"
+  },
+  {
+    "id": "michael-jackson-beat-it",
+    "name": "Michael Jackson - Beat It",
+    "url": "/songs/05. Michael Jackson - Beat It.mp3"
+  },
+  {
+    "id": "michael-jackson-burn-this-disco-out",
+    "name": "Michael Jackson - Burn This Disco Out",
+    "url": "/songs/10. Michael Jackson - Burn This Disco Out.mp3"
+  },
+  {
+    "id": "michael-jackson-don-t-stop-til-you-get-enough",
+    "name": "Michael Jackson - Don't Stop 'Til You Get Enough",
+    "url": "/songs/01. Michael Jackson - Don't Stop 'Til You Get Enough.mp3"
+  },
+  {
+    "id": "michael-jackson-get-on-the-floor",
+    "name": "Michael Jackson - Get On The Floor",
+    "url": "/songs/04. Michael Jackson - Get On The Floor.mp3"
+  },
+  {
+    "id": "michael-jackson-girlfriend",
+    "name": "Michael Jackson - Girlfriend",
+    "url": "/songs/06. Michael Jackson - Girlfriend.mp3"
+  },
+  {
+    "id": "michael-jackson-human-nature",
+    "name": "Michael Jackson - Human Nature",
+    "url": "/songs/07. Michael Jackson - Human Nature.mp3"
+  },
+  {
+    "id": "michael-jackson-i-can-t-help-it",
+    "name": "Michael Jackson - I Can't Help It",
+    "url": "/songs/08. Michael Jackson - I Can't Help It.mp3"
+  },
+  {
+    "id": "michael-jackson-it-s-the-falling-in-love",
+    "name": "Michael Jackson - It's The Falling In Love",
+    "url": "/songs/09. Michael Jackson - It's The Falling In Love.mp3"
+  },
+  {
+    "id": "michael-jackson-off-the-wall",
+    "name": "Michael Jackson - Off The Wall",
+    "url": "/songs/05. Michael Jackson - Off The Wall.mp3"
+  },
+  {
+    "id": "michael-jackson-p-y-t-pretty-young-thing-",
+    "name": "Michael Jackson - P.Y.T. (Pretty Young Thing)",
+    "url": "/songs/08. Michael Jackson - P.Y.T. (Pretty Young Thing).mp3"
+  },
+  {
+    "id": "michael-jackson-rock-with-you",
+    "name": "Michael Jackson - Rock With You",
+    "url": "/songs/02. Michael Jackson - Rock With You.mp3"
+  },
+  {
+    "id": "michael-jackson-she-s-out-of-my-life",
+    "name": "Michael Jackson - She's Out Of My Life",
+    "url": "/songs/07. Michael Jackson - She's Out Of My Life.mp3"
+  },
+  {
+    "id": "michael-jackson-the-girl-is-mine",
+    "name": "Michael Jackson - The Girl Is Mine",
+    "url": "/songs/03. Michael Jackson - The Girl Is Mine.mp3"
+  },
+  {
+    "id": "michael-jackson-the-lady-in-my-life",
+    "name": "Michael Jackson - The Lady In My Life",
+    "url": "/songs/09. Michael Jackson - The Lady In My Life.mp3"
+  },
+  {
+    "id": "michael-jackson-thriller",
+    "name": "Michael Jackson - Thriller",
+    "url": "/songs/04. Michael Jackson - Thriller.mp3"
+  },
+  {
+    "id": "michael-jackson-wanna-be-startin-somethin-",
+    "name": "Michael Jackson - Wanna Be Startin' Somethin'",
+    "url": "/songs/01. Michael Jackson - Wanna Be Startin' Somethin'.mp3"
+  },
+  {
+    "id": "michael-jackson-working-day-and-night",
+    "name": "Michael Jackson - Working Day And Night",
+    "url": "/songs/03. Michael Jackson - Working Day And Night.mp3"
+  },
+  {
+    "id": "michael-mcdonald-i-keep-forgettin-every-time-you-re-near-",
+    "name": "Michael McDonald - I Keep Forgettin (Every Time You're Near)",
+    "url": "/songs/05. Michael McDonald - I Keep Forgettin (Every Time You're Near).mp3"
+  },
+  {
+    "id": "michelle-branch-everywhere",
+    "name": "Michelle Branch - Everywhere",
+    "url": "/songs/24. Michelle Branch - Everywhere.mp3"
   },
   {
     "id": "midland-drinkin-problem",
@@ -600,6 +1575,31 @@
     "url": "/songs/73. Miley Cyrus - Malibu.mp3"
   },
   {
+    "id": "missy-elliott-the-rain-supa-dupa-fly-",
+    "name": "Missy Elliott - The Rain (Supa Dupa Fly)",
+    "url": "/songs/50. Missy Elliott - The Rain (Supa Dupa Fly).mp3"
+  },
+  {
+    "id": "missy-elliott-work-it",
+    "name": "Missy Elliott - Work It",
+    "url": "/songs/12. Missy Elliott - Work It.mp3"
+  },
+  {
+    "id": "modern-romance-best-years-of-our-lives",
+    "name": "Modern Romance - Best Years of Our Lives",
+    "url": "/songs/94. Modern Romance - Best Years of Our Lives.mp3"
+  },
+  {
+    "id": "morcheeba-otherwise",
+    "name": "Morcheeba - Otherwise",
+    "url": "/songs/79. Morcheeba - Otherwise.mp3"
+  },
+  {
+    "id": "morcheeba-the-sea",
+    "name": "Morcheeba - The Sea",
+    "url": "/songs/89. Morcheeba - The Sea.mp3"
+  },
+  {
     "id": "morgan-wallen-20-cigarettes",
     "name": "Morgan Wallen - 20 Cigarettes",
     "url": "/songs/050. Morgan Wallen - 20 Cigarettes.mp3"
@@ -615,14 +1615,44 @@
     "url": "/songs/015. Morgan Wallen - What I Want.mp3"
   },
   {
+    "id": "musiq-soulchild-sobeautiful",
+    "name": "Musiq Soulchild - sobeautiful",
+    "url": "/songs/70. Musiq Soulchild - sobeautiful.mp3"
+  },
+  {
+    "id": "my-chemical-romance-teenagers",
+    "name": "My Chemical Romance - Teenagers",
+    "url": "/songs/37. My Chemical Romance - Teenagers.mp3"
+  },
+  {
     "id": "myles-smith-nice-to-meet-you",
     "name": "Myles Smith - Nice To Meet You",
     "url": "/songs/056. Myles Smith - Nice To Meet You.mp3"
   },
   {
+    "id": "nada-surf-popular",
+    "name": "Nada Surf - Popular",
+    "url": "/songs/85. Nada Surf - Popular.mp3"
+  },
+  {
+    "id": "narada-michael-walden-gimme-gimme-gimme-feat-patti-austin-",
+    "name": "Narada Michael Walden - Gimme Gimme Gimme (feat. Patti Austin)",
+    "url": "/songs/37. Narada Michael Walden - Gimme Gimme Gimme (feat. Patti Austin).mp3"
+  },
+  {
     "id": "nat-king-cole-the-christmas-song-merry-christmas-to-you-remastered-1999-",
     "name": "Nat King Cole - The Christmas Song (Merry Christmas To You) (Remastered 1999)",
     "url": "/songs/029. Nat King Cole - The Christmas Song (Merry Christmas To You) (Remastered 1999).mp3"
+  },
+  {
+    "id": "new-order-blue-monday-88-2015-remaster-",
+    "name": "New Order - Blue Monday '88 (2015 Remaster)",
+    "url": "/songs/23. New Order - Blue Monday '88 (2015 Remaster).mp3"
+  },
+  {
+    "id": "new-order-regret",
+    "name": "New Order - Regret",
+    "url": "/songs/44. New Order - Regret.mp3"
   },
   {
     "id": "nf-fear",
@@ -655,9 +1685,34 @@
     "url": "/songs/17. Niall Horan - Slow Hands.mp3"
   },
   {
+    "id": "nick-kamen-each-time-you-break-my-heart",
+    "name": "Nick Kamen - Each Time You Break My Heart",
+    "url": "/songs/46. Nick Kamen - Each Time You Break My Heart.mp3"
+  },
+  {
+    "id": "nick-kamen-i-promised-myself",
+    "name": "Nick Kamen - I Promised Myself",
+    "url": "/songs/58. Nick Kamen - I Promised Myself.mp3"
+  },
+  {
+    "id": "nickelback-how-you-remind-me",
+    "name": "Nickelback - How You Remind Me",
+    "url": "/songs/15. Nickelback - How You Remind Me.mp3"
+  },
+  {
     "id": "nicky-jam-el-amante",
     "name": "Nicky Jam - El Amante",
     "url": "/songs/100. Nicky Jam - El Amante.mp3"
+  },
+  {
+    "id": "nu-shooz-i-can-t-wait",
+    "name": "Nu Shooz - I Can’t Wait",
+    "url": "/songs/34. Nu Shooz - I Can’t Wait.mp3"
+  },
+  {
+    "id": "ol-dirty-bastard-shimmy-shimmy-ya",
+    "name": "Ol Dirty Bastard - Shimmy Shimmy Ya",
+    "url": "/songs/65. Ol Dirty Bastard - Shimmy Shimmy Ya.mp3"
   },
   {
     "id": "old-dominion-no-such-thing-as-a-broken-heart",
@@ -690,14 +1745,89 @@
     "url": "/songs/018. Olivia Dean - So Easy (To Fall In Love).mp3"
   },
   {
+    "id": "opus-iii-it-s-a-fine-day",
+    "name": "Opus III - It’s a Fine Day",
+    "url": "/songs/75. Opus III - It’s a Fine Day.mp3"
+  },
+  {
     "id": "p-nk-what-about-us",
     "name": "P!nk - What About Us",
     "url": "/songs/82. P!nk - What About Us.mp3"
   },
   {
+    "id": "p-o-d-youth-of-the-nation",
+    "name": "P.O.D. - Youth of the Nation",
+    "url": "/songs/31. P.O.D. - Youth of the Nation.mp3"
+  },
+  {
+    "id": "panic-at-the-disco-i-write-sins-not-tragedies",
+    "name": "Panic! At The Disco - I Write Sins Not Tragedies",
+    "url": "/songs/13. Panic! At The Disco - I Write Sins Not Tragedies.mp3"
+  },
+  {
+    "id": "paolo-nutini-last-request",
+    "name": "Paolo Nutini - Last Request",
+    "url": "/songs/29. Paolo Nutini - Last Request.mp3"
+  },
+  {
+    "id": "paramore-the-only-exception",
+    "name": "Paramore - The Only Exception",
+    "url": "/songs/35. Paramore - The Only Exception.mp3"
+  },
+  {
+    "id": "paris-hilton-stars-are-blind",
+    "name": "Paris Hilton - Stars Are Blind",
+    "url": "/songs/40. Paris Hilton - Stars Are Blind.mp3"
+  },
+  {
     "id": "parker-mccollum-what-kinda-man",
     "name": "Parker McCollum - What Kinda Man",
     "url": "/songs/083. Parker McCollum - What Kinda Man.mp3"
+  },
+  {
+    "id": "paula-cole-i-don-t-want-to-wait",
+    "name": "Paula Cole - I Don’t Want to Wait",
+    "url": "/songs/69. Paula Cole - I Don’t Want to Wait.mp3"
+  },
+  {
+    "id": "peabo-bryson-if-ever-you-re-in-my-arms-again",
+    "name": "Peabo Bryson - If Ever You're in My Arms Again",
+    "url": "/songs/58. Peabo Bryson - If Ever You're in My Arms Again.mp3"
+  },
+  {
+    "id": "pet-shop-boys-go-west-2003-remaster-",
+    "name": "Pet Shop Boys - Go West (2003 Remaster)",
+    "url": "/songs/47. Pet Shop Boys - Go West (2003 Remaster).mp3"
+  },
+  {
+    "id": "pet-shop-boys-west-end-girls",
+    "name": "Pet Shop Boys - West End Girls",
+    "url": "/songs/06. Pet Shop Boys - West End Girls.mp3"
+  },
+  {
+    "id": "peter-andre-mysterious-girl-radio-edit-",
+    "name": "Peter Andre - Mysterious Girl (Radio Edit)",
+    "url": "/songs/27. Peter Andre - Mysterious Girl (Radio Edit).mp3"
+  },
+  {
+    "id": "peter-cetera-feels-like-heaven-feat-chaka-khan-",
+    "name": "Peter Cetera - Feels Like Heaven (feat. Chaka Khan)",
+    "url": "/songs/83. Peter Cetera - Feels Like Heaven (feat. Chaka Khan).mp3"
+  },
+  {
+    "id": "peter-cetera-glory-of-love",
+    "name": "Peter Cetera - Glory of Love",
+    "url": "/songs/27. Peter Cetera - Glory of Love.mp3"
+  },
+  {
+    "id": "peter-schilling-major-tom-coming-home-",
+    "name": "Peter Schilling - Major Tom (Coming Home)",
+    "url": "/songs/38. Peter Schilling - Major Tom (Coming Home).mp3"
+  },
+  {
+    "id": "planet-perfecto-featuring-grace-bullet-in-the-gun-radio-edit-",
+    "name": "Planet Perfecto Featuring Grace - Bullet in the Gun (Radio Edit)",
+    "url": "/songs/88. Planet Perfecto Featuring Grace - Bullet in the Gun (Radio Edit).mp3"
   },
   {
     "id": "playboi-carti-magnolia",
@@ -715,9 +1845,34 @@
     "url": "/songs/14. Post Malone - Congratulations feat. Quavo.mp3"
   },
   {
+    "id": "pretty-ricky-grind-with-me-radio-version-",
+    "name": "Pretty Ricky - Grind with Me (Radio Version)",
+    "url": "/songs/90. Pretty Ricky - Grind with Me (Radio Version).mp3"
+  },
+  {
+    "id": "quad-city-dj-s-c-mon-n-ride-it-the-train-radio-edit-",
+    "name": "Quad City DJ's - C'mon n' Ride It (The Train) [Radio Edit]",
+    "url": "/songs/100. Quad City DJ's - C'mon n' Ride It (The Train) [Radio Edit].mp3"
+  },
+  {
     "id": "rae-sremmurd-perplexing-pegasus",
     "name": "Rae Sremmurd - Perplexing Pegasus",
     "url": "/songs/84. Rae Sremmurd - Perplexing Pegasus.mp3"
+  },
+  {
+    "id": "ramones-baby-i-love-you",
+    "name": "Ramones - Baby, I Love You",
+    "url": "/songs/61. Ramones - Baby, I Love You.mp3"
+  },
+  {
+    "id": "randy-crawford-you-might-need-somebody",
+    "name": "Randy Crawford - You Might Need Somebody",
+    "url": "/songs/44. Randy Crawford - You Might Need Somebody.mp3"
+  },
+  {
+    "id": "randy-newman-i-love-l-a",
+    "name": "Randy Newman - I Love L.A",
+    "url": "/songs/74. Randy Newman - I Love L.A.mp3"
   },
   {
     "id": "ravyn-lenae-love-me-not",
@@ -730,14 +1885,89 @@
     "url": "/songs/047. Raye - WHERE IS MY HUSBAND!.mp3"
   },
   {
+    "id": "red-hot-chili-peppers-can-t-stop",
+    "name": "Red Hot Chili Peppers - Can’t Stop",
+    "url": "/songs/03. Red Hot Chili Peppers - Can’t Stop.mp3"
+  },
+  {
+    "id": "red-hot-chili-peppers-under-the-bridge",
+    "name": "Red Hot Chili Peppers - Under the Bridge",
+    "url": "/songs/02. Red Hot Chili Peppers - Under the Bridge.mp3"
+  },
+  {
+    "id": "regina-spektor-two-birds",
+    "name": "Regina Spektor - Two Birds",
+    "url": "/songs/83. Regina Spektor - Two Birds.mp3"
+  },
+  {
+    "id": "richie-havens-going-back-to-my-roots",
+    "name": "Richie Havens - Going Back to My Roots",
+    "url": "/songs/80. Richie Havens - Going Back to My Roots.mp3"
+  },
+  {
     "id": "riley-green-don-t-mind-if-i-do-feat-ella-langley-",
     "name": "Riley Green - Don't Mind If I Do (feat. Ella Langley)",
     "url": "/songs/033. Riley Green - Don't Mind If I Do (feat. Ella Langley).mp3"
   },
   {
+    "id": "robert-palmer-simply-irresistible",
+    "name": "Robert Palmer - Simply Irresistible",
+    "url": "/songs/32. Robert Palmer - Simply Irresistible.mp3"
+  },
+  {
+    "id": "roberta-flack-back-together-again-feat-donny-hathaway-",
+    "name": "Roberta Flack - Back Together Again (feat. Donny Hathaway)",
+    "url": "/songs/63. Roberta Flack - Back Together Again (feat. Donny Hathaway).mp3"
+  },
+  {
+    "id": "robin-s-show-me-love",
+    "name": "Robin S - Show Me Love",
+    "url": "/songs/29. Robin S - Show Me Love.mp3"
+  },
+  {
+    "id": "rod-stewart-baby-jane",
+    "name": "Rod Stewart - Baby Jane",
+    "url": "/songs/24. Rod Stewart - Baby Jane.mp3"
+  },
+  {
+    "id": "rod-stewart-have-i-told-you-lately",
+    "name": "Rod Stewart - Have I Told You Lately",
+    "url": "/songs/26. Rod Stewart - Have I Told You Lately.mp3"
+  },
+  {
+    "id": "roger-i-want-to-be-your-man",
+    "name": "Roger - I Want to Be Your Man",
+    "url": "/songs/77. Roger - I Want to Be Your Man.mp3"
+  },
+  {
+    "id": "roxette-joyride",
+    "name": "Roxette - Joyride",
+    "url": "/songs/11. Roxette - Joyride.mp3"
+  },
+  {
+    "id": "roxette-milk-and-toast-and-honey",
+    "name": "Roxette - Milk and Toast and Honey",
+    "url": "/songs/67. Roxette - Milk and Toast and Honey.mp3"
+  },
+  {
+    "id": "roxette-the-look",
+    "name": "Roxette - The Look",
+    "url": "/songs/20. Roxette - The Look.mp3"
+  },
+  {
+    "id": "rupee-tempted-to-touch",
+    "name": "Rupee - Tempted to Touch",
+    "url": "/songs/73. Rupee - Tempted to Touch.mp3"
+  },
+  {
     "id": "russell-dickerson-happen-to-me-feat-jonas-brothers-",
     "name": "Russell Dickerson - Happen To Me (feat. Jonas Brothers)",
     "url": "/songs/043. Russell Dickerson - Happen To Me (feat. Jonas Brothers).mp3"
+  },
+  {
+    "id": "ryan-cabrera-true",
+    "name": "Ryan Cabrera - True",
+    "url": "/songs/60. Ryan Cabrera - True.mp3"
   },
   {
     "id": "sabrina-carpenter-manchild",
@@ -770,6 +2000,26 @@
     "url": "/songs/11. Sam Hunt - Body Like a Back Road.mp3"
   },
   {
+    "id": "scarlet-independent-love-song",
+    "name": "Scarlet - Independent Love Song",
+    "url": "/songs/97. Scarlet - Independent Love Song.mp3"
+  },
+  {
+    "id": "seal-kiss-from-a-rose",
+    "name": "Seal - Kiss from a Rose",
+    "url": "/songs/18. Seal - Kiss from a Rose.mp3"
+  },
+  {
+    "id": "seal-love-s-divine",
+    "name": "Seal - Love’s Divine",
+    "url": "/songs/69. Seal - Love’s Divine.mp3"
+  },
+  {
+    "id": "sean-paul-temperature",
+    "name": "Sean Paul - Temperature",
+    "url": "/songs/27. Sean Paul - Temperature.mp3"
+  },
+  {
     "id": "selena-gomez-bad-liar",
     "name": "Selena Gomez - Bad Liar",
     "url": "/songs/74. Selena Gomez - Bad Liar.mp3"
@@ -790,6 +2040,46 @@
     "url": "/songs/06. Shawn Mendes -There's Nothing Holdin' Me Back.mp3"
   },
   {
+    "id": "sheila-e-the-glamorous-life-pt-1",
+    "name": "Sheila E. - The Glamorous Life, Pt. 1",
+    "url": "/songs/65. Sheila E. - The Glamorous Life, Pt. 1.mp3"
+  },
+  {
+    "id": "shola-ama-you-might-need-somebody",
+    "name": "Shola Ama - You Might Need Somebody",
+    "url": "/songs/76. Shola Ama - You Might Need Somebody.mp3"
+  },
+  {
+    "id": "silk-freak-me",
+    "name": "Silk - Freak Me",
+    "url": "/songs/63. Silk - Freak Me.mp3"
+  },
+  {
+    "id": "simple-plan-i-m-just-a-kid",
+    "name": "Simple Plan - I’m Just a Kid",
+    "url": "/songs/52. Simple Plan - I’m Just a Kid.mp3"
+  },
+  {
+    "id": "simply-red-holding-back-the-years",
+    "name": "Simply Red - Holding Back the Years",
+    "url": "/songs/14. Simply Red - Holding Back the Years.mp3"
+  },
+  {
+    "id": "simply-red-something-got-me-started",
+    "name": "Simply Red - Something Got Me Started",
+    "url": "/songs/14. Simply Red - Something Got Me Started.mp3"
+  },
+  {
+    "id": "sister-sledge-frankie",
+    "name": "Sister Sledge - Frankie",
+    "url": "/songs/48. Sister Sledge - Frankie.mp3"
+  },
+  {
+    "id": "slave-watching-you",
+    "name": "Slave - Watching You",
+    "url": "/songs/92. Slave - Watching You.mp3"
+  },
+  {
     "id": "sofia-carson-chillin-like-a-villain",
     "name": "Sofia Carson - Chillin' Like a Villain",
     "url": "/songs/95. Sofia Carson - Chillin' Like a Villain.mp3"
@@ -803,6 +2093,61 @@
     "id": "sombr-back-to-friends",
     "name": "sombr - back to friends",
     "url": "/songs/012. sombr - back to friends.mp3"
+  },
+  {
+    "id": "spacehog-in-the-meantime",
+    "name": "Spacehog - In the Meantime",
+    "url": "/songs/68. Spacehog - In the Meantime.mp3"
+  },
+  {
+    "id": "spandau-ballet-true",
+    "name": "Spandau Ballet - True",
+    "url": "/songs/11. Spandau Ballet - True.mp3"
+  },
+  {
+    "id": "stacey-q-two-of-hearts",
+    "name": "Stacey Q - Two of Hearts",
+    "url": "/songs/88. Stacey Q - Two of Hearts.mp3"
+  },
+  {
+    "id": "stacy-lattisaw-perfect-combination",
+    "name": "Stacy Lattisaw - Perfect Combination",
+    "url": "/songs/79. Stacy Lattisaw - Perfect Combination.mp3"
+  },
+  {
+    "id": "staind-it-s-been-awhile",
+    "name": "Staind - It’s Been Awhile",
+    "url": "/songs/82. Staind - It’s Been Awhile.mp3"
+  },
+  {
+    "id": "starpoint-object-of-my-desire",
+    "name": "Starpoint - Object of My Desire",
+    "url": "/songs/30. Starpoint - Object of My Desire.mp3"
+  },
+  {
+    "id": "starship-nothing-s-gonna-stop-us-now",
+    "name": "Starship - Nothing's Gonna Stop Us Now",
+    "url": "/songs/13. Starship - Nothing's Gonna Stop Us Now.mp3"
+  },
+  {
+    "id": "steve-arrington-feel-so-real",
+    "name": "STEVE ARRINGTON - Feel So Real",
+    "url": "/songs/83. STEVE ARRINGTON - Feel So Real.mp3"
+  },
+  {
+    "id": "stevie-nicks-edge-of-seventeen-2016-remaster-",
+    "name": "Stevie Nicks - Edge of Seventeen (2016 Remaster)",
+    "url": "/songs/53. Stevie Nicks - Edge of Seventeen (2016 Remaster).mp3"
+  },
+  {
+    "id": "stone-temple-pilots-interstate-love-song",
+    "name": "Stone Temple Pilots - Interstate Love Song",
+    "url": "/songs/28. Stone Temple Pilots - Interstate Love Song.mp3"
+  },
+  {
+    "id": "story-of-the-year-until-the-day-i-die",
+    "name": "Story Of The Year - Until the Day I Die",
+    "url": "/songs/80. Story Of The Year - Until the Day I Die.mp3"
   },
   {
     "id": "summer-walker-1-800-heartbreak",
@@ -850,9 +2195,39 @@
     "url": "/songs/75. SZA - The Weekend.mp3"
   },
   {
+    "id": "talk-talk-it-s-my-life",
+    "name": "Talk Talk - It's My Life",
+    "url": "/songs/22. Talk Talk - It's My Life.mp3"
+  },
+  {
+    "id": "talking-heads-this-must-be-the-place-naive-melody-2005-remaster-",
+    "name": "Talking Heads - This Must Be the Place (Naive Melody) [2005 Remaster]",
+    "url": "/songs/57. Talking Heads - This Must Be the Place (Naive Melody) [2005 Remaster].mp3"
+  },
+  {
     "id": "tame-impala-dracula",
     "name": "Tame Impala - Dracula",
     "url": "/songs/053. Tame Impala - Dracula.mp3"
+  },
+  {
+    "id": "tamia-officially-missing-you",
+    "name": "Tamia - Officially Missing You",
+    "url": "/songs/88. Tamia - Officially Missing You.mp3"
+  },
+  {
+    "id": "tamia-so-into-you",
+    "name": "Tamia - So into You",
+    "url": "/songs/86. Tamia - So into You.mp3"
+  },
+  {
+    "id": "tanita-tikaram-twist-in-my-sobriety",
+    "name": "Tanita Tikaram - Twist in My Sobriety",
+    "url": "/songs/76. Tanita Tikaram - Twist in My Sobriety.mp3"
+  },
+  {
+    "id": "tasmin-archer-sleeping-satellite",
+    "name": "Tasmin Archer - Sleeping Satellite",
+    "url": "/songs/32. Tasmin Archer - Sleeping Satellite.mp3"
   },
   {
     "id": "tate-mcrae-tit-for-tat",
@@ -925,6 +2300,31 @@
     "url": "/songs/78. Tee Grizzley - First Day Out.mp3"
   },
   {
+    "id": "tevin-campbell-can-we-talk",
+    "name": "Tevin Campbell - Can We Talk",
+    "url": "/songs/70. Tevin Campbell - Can We Talk.mp3"
+  },
+  {
+    "id": "the-b-52-s-love-shack",
+    "name": "The B-52's - Love Shack",
+    "url": "/songs/45. The B-52's - Love Shack.mp3"
+  },
+  {
+    "id": "the-beach-boys-kokomo",
+    "name": "The Beach Boys - Kokomo",
+    "url": "/songs/64. The Beach Boys - Kokomo.mp3"
+  },
+  {
+    "id": "the-blues-brothers-everybody-needs-somebody-to-love",
+    "name": "The Blues Brothers - Everybody Needs Somebody to Love",
+    "url": "/songs/60. The Blues Brothers - Everybody Needs Somebody to Love.mp3"
+  },
+  {
+    "id": "the-cars-drive",
+    "name": "The Cars - Drive",
+    "url": "/songs/19. The Cars - Drive.mp3"
+  },
+  {
     "id": "the-chainsmokers-honest",
     "name": "The Chainsmokers - Honest",
     "url": "/songs/77. The Chainsmokers - Honest.mp3"
@@ -935,9 +2335,74 @@
     "url": "/songs/19. The Chainsmokers & Coldplay - Something Just Like This.mp3"
   },
   {
+    "id": "the-corrs-breathless",
+    "name": "The Corrs - Breathless",
+    "url": "/songs/16. The Corrs - Breathless.mp3"
+  },
+  {
+    "id": "the-corrs-what-can-i-do-tin-tin-out-remix-",
+    "name": "The Corrs - What Can I Do (Tin Tin Out Remix)",
+    "url": "/songs/55. The Corrs - What Can I Do (Tin Tin Out Remix).mp3"
+  },
+  {
+    "id": "the-darkness-i-believe-in-a-thing-called-love",
+    "name": "The Darkness - I Believe in a Thing Called Love",
+    "url": "/songs/62. The Darkness - I Believe in a Thing Called Love.mp3"
+  },
+  {
+    "id": "the-dream-academy-life-in-a-northern-town",
+    "name": "The Dream Academy - Life in a Northern Town",
+    "url": "/songs/81. The Dream Academy - Life in a Northern Town.mp3"
+  },
+  {
+    "id": "the-family-stand-ghetto-heaven",
+    "name": "The Family Stand - Ghetto Heaven",
+    "url": "/songs/96. The Family Stand - Ghetto Heaven.mp3"
+  },
+  {
+    "id": "the-goo-goo-dolls-iris",
+    "name": "THE GOO GOO DOLLS - Iris",
+    "url": "/songs/04. THE GOO GOO DOLLS - Iris.mp3"
+  },
+  {
+    "id": "the-goo-goo-dolls-sympathy",
+    "name": "THE GOO GOO DOLLS - Sympathy",
+    "url": "/songs/45. THE GOO GOO DOLLS - Sympathy.mp3"
+  },
+  {
+    "id": "the-honeydrippers-sea-of-love",
+    "name": "The Honeydrippers - Sea of Love",
+    "url": "/songs/93. The Honeydrippers - Sea of Love.mp3"
+  },
+  {
     "id": "the-mar-as-sienna",
     "name": "The Marías - Sienna",
     "url": "/songs/092. The Marías - Sienna.mp3"
+  },
+  {
+    "id": "the-notorious-b-i-g-hypnotize-2014-remaster-",
+    "name": "The Notorious B.I.G. - Hypnotize (2014 Remaster)",
+    "url": "/songs/15. The Notorious B.I.G. - Hypnotize (2014 Remaster).mp3"
+  },
+  {
+    "id": "the-pretenders-don-t-get-me-wrong",
+    "name": "The Pretenders - Don't Get Me Wrong",
+    "url": "/songs/43. The Pretenders - Don't Get Me Wrong.mp3"
+  },
+  {
+    "id": "the-pretenders-i-ll-stand-by-you",
+    "name": "The Pretenders - I’ll Stand by You",
+    "url": "/songs/52. The Pretenders - I’ll Stand by You.mp3"
+  },
+  {
+    "id": "the-proclaimers-i-m-gonna-be-500-miles-",
+    "name": "The Proclaimers - I'm Gonna Be (500 Miles)",
+    "url": "/songs/21. The Proclaimers - I'm Gonna Be (500 Miles).mp3"
+  },
+  {
+    "id": "the-rembrandts-just-the-way-it-is-baby",
+    "name": "The Rembrandts - Just the Way It Is, Baby",
+    "url": "/songs/51. The Rembrandts - Just the Way It Is, Baby.mp3"
   },
   {
     "id": "the-revivalists-wish-i-knew-you",
@@ -950,9 +2415,54 @@
     "url": "/songs/037. The Ronettes - Sleigh Ride.mp3"
   },
   {
+    "id": "the-smiths-this-charming-man-2011-remaster-",
+    "name": "The Smiths - This Charming Man (2011 Remaster)",
+    "url": "/songs/59. The Smiths - This Charming Man (2011 Remaster).mp3"
+  },
+  {
+    "id": "the-stranglers-golden-brown",
+    "name": "The Stranglers - Golden Brown",
+    "url": "/songs/68. The Stranglers - Golden Brown.mp3"
+  },
+  {
+    "id": "the-time-jungle-love",
+    "name": "The Time - Jungle Love",
+    "url": "/songs/39. The Time - Jungle Love.mp3"
+  },
+  {
+    "id": "the-used-the-taste-of-ink",
+    "name": "The Used - The Taste of Ink",
+    "url": "/songs/89. The Used - The Taste of Ink.mp3"
+  },
+  {
+    "id": "the-veronicas-untouched",
+    "name": "The Veronicas - Untouched",
+    "url": "/songs/91. The Veronicas - Untouched.mp3"
+  },
+  {
     "id": "the-weeknd-reminder",
     "name": "The Weeknd - Reminder",
     "url": "/songs/65. The Weeknd - Reminder.mp3"
+  },
+  {
+    "id": "the-wombats-let-s-dance-to-joy-division",
+    "name": "The Wombats - Let’s Dance to Joy Division",
+    "url": "/songs/93. The Wombats - Let’s Dance to Joy Division.mp3"
+  },
+  {
+    "id": "they-might-be-giants-birdhouse-in-your-soul",
+    "name": "They Might Be Giants - Birdhouse in Your Soul",
+    "url": "/songs/61. They Might Be Giants - Birdhouse in Your Soul.mp3"
+  },
+  {
+    "id": "third-eye-blind-crystal-baller",
+    "name": "Third Eye Blind - Crystal Baller",
+    "url": "/songs/84. Third Eye Blind - Crystal Baller.mp3"
+  },
+  {
+    "id": "third-eye-blind-semi-charmed-life-2006-remaster-",
+    "name": "Third Eye Blind - Semi-charmed Life (2006 Remaster)",
+    "url": "/songs/06. Third Eye Blind - Semi-charmed Life (2006 Remaster).mp3"
   },
   {
     "id": "thomas-rhett-craving-you-feat-maren-morris",
@@ -965,9 +2475,54 @@
     "url": "/songs/86. Thomas Rhett - Unforgettable.mp3"
   },
   {
+    "id": "tina-turner-goldeneye",
+    "name": "Tina Turner - Goldeneye",
+    "url": "/songs/16. Tina Turner - Goldeneye.mp3"
+  },
+  {
+    "id": "tina-turner-open-arms",
+    "name": "Tina Turner - Open Arms",
+    "url": "/songs/86. Tina Turner - Open Arms.mp3"
+  },
+  {
+    "id": "tina-turner-the-best",
+    "name": "Tina Turner - The Best",
+    "url": "/songs/03. Tina Turner - The Best.mp3"
+  },
+  {
+    "id": "tori-amos-cornflake-girl",
+    "name": "Tori Amos - Cornflake Girl",
+    "url": "/songs/21. Tori Amos - Cornflake Girl.mp3"
+  },
+  {
     "id": "travis-scott-butterfly-effect",
     "name": "Travis Scott - Butterfly Effect",
     "url": "/songs/55. Travis Scott - Butterfly Effect.mp3"
+  },
+  {
+    "id": "trey-songz-can-t-help-but-wait",
+    "name": "Trey Songz - Can’t Help but Wait",
+    "url": "/songs/85. Trey Songz - Can’t Help but Wait.mp3"
+  },
+  {
+    "id": "trick-daddy-let-s-go-feat-big-d-twista-",
+    "name": "Trick Daddy - Let's Go (feat. Big D & Twista)",
+    "url": "/songs/100. Trick Daddy - Let's Go (feat. Big D & Twista).mp3"
+  },
+  {
+    "id": "tweet-oops-oh-my-",
+    "name": "Tweet - Oops (Oh My)",
+    "url": "/songs/92. Tweet - Oops (Oh My).mp3"
+  },
+  {
+    "id": "twista-overnight-celebrity",
+    "name": "Twista - Overnight Celebrity",
+    "url": "/songs/94. Twista - Overnight Celebrity.mp3"
+  },
+  {
+    "id": "twisted-sister-we-re-not-gonna-take-it",
+    "name": "Twisted Sister - We’re Not Gonna Take It",
+    "url": "/songs/70. Twisted Sister - We’re Not Gonna Take It.mp3"
   },
   {
     "id": "tyler-the-creator-sugar-on-my-tongue",
@@ -975,14 +2530,44 @@
     "url": "/songs/073. Tyler, The Creator - Sugar On My Tongue.mp3"
   },
   {
+    "id": "uncle-kracker-follow-me",
+    "name": "Uncle Kracker - Follow Me",
+    "url": "/songs/09. Uncle Kracker - Follow Me.mp3"
+  },
+  {
+    "id": "vitamin-c-graduation-friends-forever-",
+    "name": "Vitamin C - Graduation (Friends Forever)",
+    "url": "/songs/39. Vitamin C - Graduation (Friends Forever).mp3"
+  },
+  {
+    "id": "wayne-wonder-no-letting-go",
+    "name": "Wayne Wonder - No Letting Go",
+    "url": "/songs/30. Wayne Wonder - No Letting Go.mp3"
+  },
+  {
     "id": "wham-last-christmas",
     "name": "Wham! - Last Christmas",
     "url": "/songs/011. Wham! - Last Christmas.mp3"
   },
   {
+    "id": "whitesnake-here-i-go-again-87-2018-remaster-",
+    "name": "Whitesnake - Here I Go Again 87 (2018 Remaster)",
+    "url": "/songs/08. Whitesnake - Here I Go Again 87 (2018 Remaster).mp3"
+  },
+  {
+    "id": "wiley-wearing-my-rolex-radio-edit-",
+    "name": "Wiley - Wearing My Rolex (Radio Edit)",
+    "url": "/songs/97. Wiley - Wearing My Rolex (Radio Edit).mp3"
+  },
+  {
     "id": "wisin-escapate-conmigo-ft-ozuna-",
     "name": "Wisin - Escapate Conmigo (Ft. Ozuna)",
     "url": "/songs/68. Wisin - Escapate Conmigo (Ft. Ozuna).mp3"
+  },
+  {
+    "id": "yes-owner-of-a-lonely-heart",
+    "name": "Yes - Owner of a Lonely Heart",
+    "url": "/songs/15. Yes - Owner of a Lonely Heart.mp3"
   },
   {
     "id": "yfn-lucci-everyday-we-lit-feat-pnb-rock-",
@@ -998,6 +2583,11 @@
     "id": "youngboy-never-broke-again-shot-callin",
     "name": "YoungBoy Never Broke Again - Shot Callin",
     "url": "/songs/061. YoungBoy Never Broke Again - Shot Callin.mp3"
+  },
+  {
+    "id": "zapp-more-bounce-to-the-ounce",
+    "name": "Zapp - More Bounce to the Ounce",
+    "url": "/songs/89. Zapp - More Bounce to the Ounce.mp3"
   },
   {
     "id": "zedd-stay-feat-alessia-cara-",

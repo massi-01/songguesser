@@ -91,13 +91,9 @@ export default function GameController() {
         <NeonModal
           success={isGuessed}
           title={isGuessed ? "🎉 Hai indovinato!" : "❌ Hai perso!"}
-          subtitle={
-            isGuessed ? track.name : `La risposta era: ${track.name}`
-          }
-          onRestart={() => {
-            resetGame();
-            setResetSignal((x) => x + 1); // reset progress bar anche al riavvio
-          }}
+          subtitle={isGuessed ? track.name : `La risposta era: ${track.name}`}
+          onRestart={resetGame}
+          trackUrl={track.url}   // 👈 AGGIUNTO
         />
       )}
     </div>

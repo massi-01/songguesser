@@ -9,8 +9,11 @@ interface GameStore {
   isOver: boolean;
   isGuessed: boolean;
 
-  resetSignal: number;                   // 🔥 nuovo
-  forceResetProgress: () => void;        // 🔥 nuovo
+  resetSignal: number;
+  forceResetProgress: () => void;
+
+  volume: number;                 // 🎧 nuovo
+  setVolume: (v: number) => void; // 🎧 nuovo
 
   setTrack: (id: string) => void;
   nextAttempt: () => void;
@@ -30,6 +33,10 @@ export const useGame = create<GameStore>((set) => ({
   forceResetProgress: () =>
     set((s) => ({ resetSignal: s.resetSignal + 1 })),
 
+  // 🎧 volume globale
+  volume: 1,
+  setVolume: (v) => set({ volume: v }),
+
   setTrack: (id) =>
     set({
       currentTrackId: id,
@@ -37,7 +44,8 @@ export const useGame = create<GameStore>((set) => ({
       snippetMs: SNIPPETS[0],
       isOver: false,
       isGuessed: false,
-      resetSignal: Date.now(), // reset avvio track
+      resetSignal: Date.now(),
+      // ❗ volume NON si resetta
     }),
 
   nextAttempt: () =>
@@ -51,7 +59,7 @@ export const useGame = create<GameStore>((set) => ({
           snippetMs: SNIPPETS[SNIPPETS.length - 1],
           isOver: true,
           isGuessed: false,
-          resetSignal: Date.now(), // reset barra
+          resetSignal: Date.now(),
         };
       }
 
@@ -59,7 +67,7 @@ export const useGame = create<GameStore>((set) => ({
         ...state,
         attempt: next,
         snippetMs: SNIPPETS[next],
-        resetSignal: Date.now(), // reset barra
+        resetSignal: Date.now(),
       };
     }),
 
@@ -90,7 +98,8 @@ export const useGame = create<GameStore>((set) => ({
     set({
       isGuessed: true,
       isOver: true,
-      resetSignal: Date.now(), // reset vincita
+      resetSignal: Date.now(),
+      // 🔊 volume rimane invariato
     }),
 
   resetGame: () =>
@@ -101,5 +110,6 @@ export const useGame = create<GameStore>((set) => ({
       isOver: false,
       isGuessed: false,
       resetSignal: Date.now(),
+      // ❗ volume NON si resetta
     }),
 }));

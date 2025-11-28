@@ -54,3 +54,31 @@ body {
 .bg-cyberpunk {
   background: radial-gradient(circle at top center, #1a1a25, #0a0a12 60%, #050508 100%);
 }
+
+/* === SCROLLBAR NEON GLOW === */
+
+.neon-scroll::-webkit-scrollbar {
+  width: 10px;
+}
+
+.neon-scroll::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+}
+
+.neon-scroll::-webkit-scrollbar-thumb {
+  background: #00eaff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #00eaff;
+}
+
+.neon-scroll::-webkit-scrollbar-thumb:hover {
+  background: #00bcd4;
+  box-shadow: 0 0 12px #00eaff;
+}
+
+/* Firefox */
+.neon-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: #00eaff rgba(0, 0, 0, 0.4);
+}
