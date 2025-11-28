@@ -3,15 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+     "dev": "npm run generate:songs && next dev",
+    "build": "npm run generate:songs && next build",
+    "generate:songs": "node scripts/generateSongs.js",
     "start": "next start",
     "lint": "eslint"
+    
   },
   "dependencies": {
     "next": "16.0.5",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "zustand": "^5.0.8"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
