@@ -537,5 +537,16 @@ module.exports = [
 "16. Dua Lipa - That Kind Of Woman.mp3",
 "17. Dua Lipa - Not My Problem (feat. JID).mp3",
 "18. Dua Lipa - Levitating (feat. DaBaby).mp3",
-"19. Dua Lipa - Un Día (One Day).mp3"
+"19. Dua Lipa - Un Día (One Day).mp3",
+"01. Dua Lipa - End Of An Era.mp3",
+"02. Dua Lipa - Houdini.mp3",
+"03. Dua Lipa - Training Season.mp3",
+"04. Dua Lipa -These Walls.mp3",
+"05. Dua Lipa - Whatcha Doing.mp3",
+"06. Dua Lipa - French Exit.mp3",
+"07. Dua Lipa - Illusion.mp3",
+"08. Dua Lipa - Falling Forever.mp3",
+"09. Dua Lipa - Anything For Love.mp3",
+"10. Dua Lipa - Maria.mp3",
+"11. Dua Lipa - Happy For You.mp3"
 ];
