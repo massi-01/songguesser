@@ -5,7 +5,7 @@
   "scripts": {
      "dev": "npm run generate:songs && next dev",
     "build": "npm run generate:songs && next build",
-    "generate:songs": "node scripts/generateSongs.js",
+    "generate:songs": "node scripts/generateSongsFromR2.js",
     "start": "next start",
     "lint": "eslint"
     
