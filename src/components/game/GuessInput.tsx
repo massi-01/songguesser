@@ -6,12 +6,13 @@ import { useGame } from "@/store/useGame";
 import NeonInput from "@/components/ui/NeonInput";
 import NeonSuggestionList from "@/components/ui/NeonSuggestionList";
 
+
 export default function GuessInput({ track }: any) {
   const tracks = useTracks((s) => s.tracks);
-  const { nextAttempt, win, isOver } = useGame();
+  const { nextAttempt, win, isOver, forceResetProgress } = useGame();
 
   const [guess, setGuess] = useState("");
-  const [suggestions, setSuggestions] = useState([]);
+  const [suggestions, setSuggestions] = useState<any[]>([]);
 
   function normalize(text: string) {
     return text
@@ -38,8 +39,16 @@ export default function GuessInput({ track }: any) {
   }, [guess, tracks]);
 
   function doAttempt(songName: string) {
-    if (normalize(songName) === normalize(track.name)) win();
-    else nextAttempt();
+    if (normalize(songName) === normalize(track.name)) {
+      win();
+    } else {
+      nextAttempt();
+    }
+
+    forceResetProgress(); // 🔥 qui si fissa tutto
+
+    setGuess("");
+    setSuggestions([]);
   }
 
   if (isOver) return null;
@@ -49,11 +58,7 @@ export default function GuessInput({ track }: any) {
       <NeonInput value={guess} onChange={(e: any) => setGuess(e.target.value)} />
       <NeonSuggestionList
         suggestions={suggestions}
-        onSelect={(s: any) => {
-          doAttempt(s.name);
-          setGuess("");
-          setSuggestions([]);
-        }}
+        onSelect={(s: any) => doAttempt(s.name)}
       />
     </div>
   );

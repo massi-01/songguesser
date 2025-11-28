@@ -1,14 +1,16 @@
 import { create } from "zustand";
 
-// Durate snippet progressive (ms)
 const SNIPPETS = [1000, 2000, 3000, 4000, 8000, 15000];
 
 interface GameStore {
   currentTrackId: string | null;
-  attempt: number; // 0–5
+  attempt: number;
   snippetMs: number;
   isOver: boolean;
   isGuessed: boolean;
+
+  resetSignal: number;                   // 🔥 nuovo
+  forceResetProgress: () => void;        // 🔥 nuovo
 
   setTrack: (id: string) => void;
   nextAttempt: () => void;
@@ -24,6 +26,10 @@ export const useGame = create<GameStore>((set) => ({
   isOver: false,
   isGuessed: false,
 
+  resetSignal: 0,
+  forceResetProgress: () =>
+    set((s) => ({ resetSignal: s.resetSignal + 1 })),
+
   setTrack: (id) =>
     set({
       currentTrackId: id,
@@ -31,6 +37,7 @@ export const useGame = create<GameStore>((set) => ({
       snippetMs: SNIPPETS[0],
       isOver: false,
       isGuessed: false,
+      resetSignal: Date.now(), // reset avvio track
     }),
 
   nextAttempt: () =>
@@ -44,6 +51,7 @@ export const useGame = create<GameStore>((set) => ({
           snippetMs: SNIPPETS[SNIPPETS.length - 1],
           isOver: true,
           isGuessed: false,
+          resetSignal: Date.now(), // reset barra
         };
       }
 
@@ -51,6 +59,7 @@ export const useGame = create<GameStore>((set) => ({
         ...state,
         attempt: next,
         snippetMs: SNIPPETS[next],
+        resetSignal: Date.now(), // reset barra
       };
     }),
 
@@ -59,13 +68,13 @@ export const useGame = create<GameStore>((set) => ({
       const next = state.attempt + 1;
 
       if (next >= SNIPPETS.length) {
-        // skip sull'ultimo = game over
         return {
           ...state,
           attempt: SNIPPETS.length - 1,
           snippetMs: SNIPPETS[SNIPPETS.length - 1],
           isOver: true,
           isGuessed: false,
+          resetSignal: Date.now(),
         };
       }
 
@@ -73,10 +82,16 @@ export const useGame = create<GameStore>((set) => ({
         ...state,
         attempt: next,
         snippetMs: SNIPPETS[next],
+        resetSignal: Date.now(),
       };
     }),
 
-  win: () => set({ isGuessed: true, isOver: true }),
+  win: () =>
+    set({
+      isGuessed: true,
+      isOver: true,
+      resetSignal: Date.now(), // reset vincita
+    }),
 
   resetGame: () =>
     set({
@@ -85,5 +100,6 @@ export const useGame = create<GameStore>((set) => ({
       snippetMs: SNIPPETS[0],
       isOver: false,
       isGuessed: false,
+      resetSignal: Date.now(),
     }),
 }));

@@ -7,7 +7,7 @@ import SegmentProgressBar from "@/components/ui/SegmentProgressBar";
 interface AudioPlayerProps {
   url: string;
   durationMs: number;
-  resetSignal: number; // ⬅️ nuovo, cambia quando si deve resettare la barra
+  resetSignal: number;
 }
 
 export default function AudioPlayer({ url, durationMs, resetSignal }: AudioPlayerProps) {
@@ -16,7 +16,6 @@ export default function AudioPlayer({ url, durationMs, resetSignal }: AudioPlaye
   const [elapsedMs, setElapsedMs] = useState(0);
   const [playId, setPlayId] = useState(0);
 
-  // ⬅️ Quando resetSignal cambia → reset completo della progress bar
   useEffect(() => {
     setElapsedMs(0);
     setPlayId((x) => x + 1);
@@ -32,7 +31,6 @@ export default function AudioPlayer({ url, durationMs, resetSignal }: AudioPlaye
   function handlePlay() {
     if (!audioRef.current) return;
 
-    // reset prima di iniziare il nuovo snippet
     setElapsedMs(0);
     setPlayId((x) => x + 1);
 
@@ -40,26 +38,33 @@ export default function AudioPlayer({ url, durationMs, resetSignal }: AudioPlaye
   }
 
   return (
-    <div className="mt-4">
-      <audio ref={audioRef} src={url} />
-
-      <button
-        onClick={handlePlay}
-        className="px-8 py-6 rounded-full 
-        text-white font-bold text-xl
-        bg-transparent border-2 border-cyan-400
-        hover:bg-cyan-400/20
-        animate-neon-pulse
-        transition-all w-full"
-      >
-        ▶ Snippet ({durationMs / 1000}s)
-      </button>
-
+    <div className="mt-4 w-full flex flex-col items-center gap-6">
+      {/* Progress bar sopra */}
       <SegmentProgressBar
         key={playId}
         currentIndex={chunk}
         elapsedMs={elapsedMs}
       />
+
+      {/* Player audio */}
+      <audio ref={audioRef} src={url} />
+
+      {/* Pulsante play SOTTO e centrato */}
+      <button
+        onClick={handlePlay}
+        className="
+          w-20 h-20
+          flex items-center justify-center
+          rounded-full border-2 border-cyan-400
+          text-cyan-400 text-3xl
+          bg-transparent
+          shadow-[0_0_12px_#00eaff]
+          hover:bg-cyan-400/20 hover:shadow-[0_0_20px_#00eaff]
+          transition-all
+        "
+      >
+        ▶
+      </button>
     </div>
   );
 }
