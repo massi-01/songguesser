@@ -77,7 +77,7 @@ export default function SegmentProgressBar({
               className="
                 absolute inset-0
                 bg-cyan-400 shadow-[0_0_10px_#00eaff]
-                transition-[width] duration-75
+                transition-[width] duration-300 ease-out
               "
               style={{ width: `${fillRatio * 100}%` }}
             />
