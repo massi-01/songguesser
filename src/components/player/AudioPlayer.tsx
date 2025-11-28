@@ -106,19 +106,19 @@ export default function AudioPlayer({ url, durationMs, resetSignal }: AudioPlaye
               accent-cyan-400 
               cursor-pointer
               appearance-none 
-              h-[4px] 
+              h-1 
               bg-gray-700 
               rounded-full
 
               [&::-webkit-slider-thumb]:appearance-none
-              [&::-webkit-slider-thumb]:w-[14px]
-              [&::-webkit-slider-thumb]:h-[14px]
+              [&::-webkit-slider-thumb]:w-3.5
+              [&::-webkit-slider-thumb]:h-3.5
               [&::-webkit-slider-thumb]:rounded-full
               [&::-webkit-slider-thumb]:bg-cyan-400
               [&::-webkit-slider-thumb]:shadow-[0_0_6px_#00eaff]
 
-              [&::-moz-range-thumb]:w-[14px]
-              [&::-moz-range-thumb]:h-[14px]
+              [&::-moz-range-thumb]:w-3.5
+              [&::-moz-range-thumb]:h-3.5
               [&::-moz-range-thumb]:rounded-full
               [&::-moz-range-thumb]:bg-cyan-400
               [&::-moz-range-thumb]:shadow-[0_0_6px_#00eaff]
